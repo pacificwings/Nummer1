@@ -3,9 +3,12 @@
 Steckbriefe, so wie sie aus dem Quellenmaterial belegt sind (siehe
 `recherche/quellenmaterial/`). Vorrangregel bei Widersprüchen:
 `kap3_korrigiert_20260707.md` > `gesamtdokument_20261224.md` (TEIL B/C) >
-`band1_dobson_neun.md`. Nicht belegte Details sind nicht ergänzt —
-offene Punkte stehen unter "Offene Fragen" am Ende der jeweiligen Figur
-oder im Abschnitt "Offene Fragen / Widersprüche" ganz unten.
+`band1_dobson_neun.md`. Für die später hinzugekommenen Quellen #4–#9
+(siehe `quellen.md`) gilt keine feste Vorrangregel — Widersprüche werden
+unten offen dokumentiert statt einseitig aufgelöst. Nicht belegte Details
+sind nicht ergänzt — offene Punkte stehen unter "Offene Fragen" am Ende
+der jeweiligen Figur oder im Abschnitt "Offene Fragen / Widersprüche"
+ganz unten.
 
 Als Ordnungs-/Referenzprinzip verwendet dieses Dokument durchgehend
 **Handlungsstränge** (z.B. "Nordkorea/Geheimdienst-Strang",
@@ -49,6 +52,12 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   gesamtdokument). `kap3_korrigiert` zeigt McAllan aber bereits aktiv als
   Figur — die frühere Notiz "McAllan tritt im Manuskript nicht auf" (TEIL
   A, Logikfehler L14) ist damit für diese Szene überholt.
+- **Konzeptnotiz (Quelle #8, `alle_notizen_sicherung.md`, "Roter Faden",
+  Stand Juni 2026, dort als "verbindlich" bezeichnet):** McAllan wird
+  dort als "Wissender", nicht als Mitglied der Helfenden Hände
+  beschrieben — jemand, dem die Zusammenhänge zugetragen wurden, ohne
+  dass er selbst aktiv rekrutiert wurde. Diese Einordnung ist
+  **Konzeptmaterial, nicht bestätigter Manuskripttext.**
 
 ### Corinna Brandenburg
 
@@ -79,6 +88,15 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   "hochrangigen Quellen" hatte sie bei Joost van der Dijkstraat selbst.
 - **Beziehungen:** Joost van der Dijkstraat (verstorbene Quelle/Vorbild),
   McAllan (neue Quelle/Auftraggeber).
+- **Konzeptnotiz (Quelle #8, Stand Juni 2026):** Laut "Roter
+  Faden"-Notiz ist Corinna am Ende diejenige, die entscheidet, die volle
+  Wahrheit *nicht* zu publizieren (um die Helfenden Hände/UMACO nicht zu
+  gefährden), sondern stattdessen einen "Faction-Thriller" zu schreiben —
+  im Konzept explizit als mögliche Erklärung für die
+  Rahmung/Autorenschaft "H.S. 'Daily' McAllan" (Pseudonym halb McAllan,
+  halb Corinna) angelegt. **Ausdrücklich Konzeptmaterial, nicht als
+  Manuskripttext bestätigt** — offene Entscheidung für den Nutzer, ob
+  diese Meta-Ebene übernommen wird.
 
 ### Thomas Bauer
 
@@ -132,6 +150,10 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   dass Richters Enttarnung/Tod eine Vergeltungsaktion der "Gutseoda"
   war — das ist die Auflösung des in TEIL A als offen markierten
   "BND-Mann-New-York"-Rätsels (vormals Logikfehler/Platzhalter P7/L11).
+- **Konzeptnotiz (Quelle #8):** Im "Roter Faden"-Konzept wird sein Tod
+  als bewusstes Signal der Gegengesellschaft ("Warnung: Wir sehen euch")
+  im Rahmen einer größeren, jahrelangen Sabotagekampagne gegen ein
+  Projekt namens "UMACO" eingeordnet — siehe Organisationen unten.
 
 ### Xi Cheng Fu
 
@@ -146,6 +168,13 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   "obersten Führer" (Kim Jong-un) und Minister Kim Wong-Hong.
 - **Beziehungen:** Untergebene Agenten in Marokko (Westsahara-Strang,
   Buch 2); reagiert auf den Bericht zu Ajwad Boussafa/Boufassar.
+- **Neu (Quelle #5, `zwischenkapitel_schwarz_balddae.md`):** Der
+  Planungschef, der das (erweiterte) Projekt Mujigage entwickelt hatte,
+  stirbt kurz nach der Freigabe durch einen als Unfall getarnten Sturz in
+  einen Hohlweg nahe Ch'oso-dong (Details siehe Organisationen/Gutseoda
+  unten) — ob das Chang Chil Sung selbst ist oder eine andere,
+  unbenannte Person, ist nicht eindeutig; der Text nennt nur "der
+  Planungschef", ohne Namen.
 
 ### Kim Wong-Hong
 
@@ -163,12 +192,21 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 - **Rolle:** Nordkoreanische Geologin, keine Kampfausbildung, Teil des
   vierköpfigen NK-Kommandoteams in London (Buch 2); sucht nach den
   Westsahara-Bodenproben (Hinweis auf Goldvorkommen).
+- **Charakterisierung (Konzeptnotiz, Quelle #8):** Dort als "die
+  Unwissentliche" beschrieben — keine Überzeugungstäterin, sondern
+  rekrutiert, nicht ideologisch geformt; weiß, dass die Westsahara
+  geologisch "geeignet" ist, aber nicht wofür genau; gibt im Verhör mehr
+  preis, als ihr bewusst ist, und beginnt zu kooperieren, als sie
+  erkennt, dass sie für ihre Auftraggeber austauschbar ist. **Diese
+  Charakterzeichnung ist Konzeptmaterial**, im bisher gelesenen
+  Manuskripttext (Buch 2, London-Szene) nicht ausformuliert.
 
 ### Mikhael "Mischa" Kusnezow / Fedor "Grischa" Solowjow
 
 - **Rolle:** Russische Militäroffiziere, nach Nordkorea entsandt, um das
   BUK-M1-E2-System auf dem Tonghae-Testgelände zu beobachten (Feb.
   2014) — Verbindung zur späteren BUK-Lieferung in den Donbass (MH17).
+  Volle Namen bestätigt in Quelle #1 und #8 identisch.
 
 ### Die "Gutseoda" / HQ "Falkennest"
 
@@ -176,7 +214,9 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   Führer" unterstellt; HQ unterirdisch nahe Ch'oso-dong. Verfolgen seit
   Jahrhunderten das Ziel, die Dobneun-Son zu vernichten und sich ihres
   Vermögens zu bemächtigen — die explizite Gegenspieler-Organisation
-  der "Helfenden Hände" (siehe Abschnitt Organisationen unten).
+  der "Helfenden Hände" (siehe Abschnitt Organisationen unten für Details
+  zu Standort, Bewachung durch "Haedongcheong" und den Vorfall um den
+  Planungschef).
 
 ---
 
@@ -222,7 +262,8 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 ### Joost van der Dijkstraat (Deckname im Manuskript auch: "Joost Soetebaum")
 
 - **Rolle:** Niederländischer Journalist, ICIJ-Mitglied; der eigentliche
-  Ermittler, dessen nachgelassene Akten Corinna 2018 erhält.
+  Ermittler, dessen nachgelassene Akten Corinna 2018 erhält. Voller Name
+  und Deckname übereinstimmend in Quelle #1 und #8 bestätigt.
 - **Schicksal:** Fliegt als "Dead Head" (Flugbegleiter unter falschem
   Namen) an Bord MH17 und stirbt am 17. Juli 2014 beim Abschuss.
 - **Hinterlassenschaft (Wohnung Deichstraße 24, Hamburg):** Korea-Akte,
@@ -233,6 +274,10 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   Thomas Ganghofer (Quelle), Piet Klocke und Flim Dijkwijk (AIVD/KMar,
   gemeinsame Lagebesprechungen), Corinna Brandenburg (postumer
   "Nachlassgeber").
+- **Konzeptnotiz (Quelle #8):** Sein Tod wird im "Roter Faden"-Konzept
+  als gezielte Eliminierung durch die Gegengesellschaft eingeordnet, weil
+  er der Person am nächsten kam, die die UMACO-Vorbereitung/Kim-Linie-
+  Zusammenhänge hätte aufdecken können.
 
 ### Johann Dahlleiter ("Duke Cloud")
 
@@ -282,10 +327,14 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   Special Branch (vereitelte mehrere Attentate). Enge Funk-/Arbeitspartnerin
   von Bibi Kaur.
 - **⚠️ Namenskonflikt (siehe Offene Fragen):** In `band1_dobson_neun.md`
-  wird sie squat-intern **"Tia"** genannt; in `gesamtdokument_20261224.md`
-  (neuere/priorisierte Fassung) heißt derselbe Charakter squat-intern
-  **"Satria"**. Nach Vorrangregel gilt "Satria" als aktueller Name; "Tia"
-  ist der ältere Stand.
+  UND in `band1_dobson_neun_normseiten.md` (Quelle #6, laut Nutzerhinweis
+  die unlektorierte Rohfassung) wird sie squat-intern durchgängig
+  **"Tia"** genannt; in `gesamtdokument_20261224.md` (spätere/lektorierte
+  Fassung) heißt derselbe Charakter squat-intern **"Satria"** — bestätigt
+  auch an der wortgleichen Restaurant-Szene in Westsahara (GD Z.15520 vs.
+  normseiten Z.2277: identischer Text, nur "Satria"/"Tia" unterschiedlich).
+  Das bestätigt: **"Satria" ist eine spätere Umbenennung von "Tia"**, kein
+  Zufall/Tippfehler. Nach Vorrangregel gilt "Satria" als aktueller Name.
 - **2018:** Ebenfalls im Wüsteneinsatz Dubai aktiv (Funk: "Satria an
   alle...").
 
@@ -298,8 +347,8 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 
 - **Rolle:** Weitere Mitglieder/Kontakte des Special-Branch-Teams
   (Schützen, Kollegen, thailändischer Captain bei einem gemeinsamen
-  Einsatz). Nur in `band1_dobson_neun.md` mit Namen belegt — Rollen dort
-  Nebenfiguren im Team um Bibi/Satria.
+  Einsatz). Nur in `band1_dobson_neun.md`/`band1_dobson_neun_normseiten.md`
+  mit Namen belegt — Rollen dort Nebenfiguren im Team um Bibi/Satria.
 
 ---
 
@@ -312,20 +361,52 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   Luftschutzbunker in London.
 - **Bezug Buch 1:** Bereits in den Libyen-/Westsahara-Szenen 2015 aktiv
   (begleitet von Bibi Kaur und Satria Chow als Personenschutz).
+- **Erweiterter Hintergrund (bestätigt in Quelle #1 und #6, wortgleich):**
+  Alma Mater ist eine Universität in Cornwall, die durch die Anbindung an
+  seine Probensammlung eines der angesehensten geologischen Institute
+  wird; sein Unternehmen bietet kostenpflichtige Recherchen auf Basis der
+  Probendatenbank an; im Umfeld kursieren Gerüchte über ein "geheimes
+  Diamantenlager" in seinem Luftschutzbunker; nach drei versuchten
+  Einbrüchen lässt er eine direkt mit der Polizei verbundene Alarmanlage
+  einbauen. Lebt/arbeitet mit einer Person namens **Elizabeth**
+  zusammen (Rolle nicht eindeutig — Lebens-/Geschäftspartnerin oder
+  Haushaltsmitglied; wird nur beiläufig erwähnt, keine eigene Szene).
+- **SAS/DSCT-Übung (Konsistenzdetail, Quelle #1/#6):** Vor der eigentlichen
+  Verteidigungsoperation (Juni 2015) fand in seinem Haus eine
+  Trainingsübung statt (SAS als "Geiselnehmer", DSCT-Plan zur Befreiung),
+  die mit einem dramatischen Übungsergebnis endete (vier von fünf
+  Geiseln, alle "Geiselnehmer" und die halbe Übungs-Squadron als "tot"
+  gewertet) — daraus lernten SAS und DSCT für den echten Einsatz.
 - **Ziel der NK-Seite:** Die Nordkoreaner vermuten in seinen Proben
   Hinweise auf ein geheimes Goldvorkommen (Westsahara/Taiwan-Bezug).
 - **Beziehungen:** Amy und James Woodcrow (Mitarbeiter), Ananda
-  Khalebendi (kennt ihn von einer SAS-Übung in seinem Haus).
+  Khalebendi (kennt ihn von einer SAS-Übung in seinem Haus), Elizabeth
+  (s.o.).
 
 ### Ananda Khalebendi
 
-- **Rolle:** DSCT (Domestic Security Counter-Terrorism), London;
+- **Rolle:** DSCT (Department for Strategic Counter Terrorism), London;
   zuständig für Anti-Terror. Zentrale Figur auf britischer Seite,
   professionell, führungsstark, improvisiert unter Druck.
+- **Hintergrund (bestätigt in Quelle #1 und #6, wortgleich):** Geboren im
+  Dorf Nakavika (Berge südwestlich von Suva, Fidschi-Insel Viti Levu);
+  Commonwealth-Stipendium für ein Master-Studium "Security Management" an
+  der University of Portsmouth (Abschluss 1,9, Jahrgangsbeste);
+  Masterarbeit zum Thema schnelle Eingreiftruppen im urbanen Umfeld, auf
+  Betreiben von Chief Superintendent **David Whitmore** (Metropolitan
+  Police) als vertrauliche Auftragsarbeit für die Polizei umgewidmet
+  (Betreuer: **Dr. Paul Norman**; Dekan: **Blackett**). Test-Szenario:
+  Logikanalyse einer fiktiven Geiselnahme am Camden Market, bei der sie
+  einen Zeit-/Strategiefehler des SAS-Einsatzplans nachweist (Gespräch
+  mit **Colonel Anthony Wilson** und **Sergeant Brooke**). Daraus entsteht
+  gemeinsam mit David Whitmore die Abteilung **DSCT (Department for
+  Strategic Counter Terrorism)** als Schnittstelle zwischen Polizei,
+  Scotland Yard, Special Branch und SAS.
 
 ### David Whitmore
 
-- **Rolle:** Scotland Yard, Anandas Partner; löst bei Erhalt des
+- **Rolle:** Scotland Yard/Metropolitan Police (Chief Superintendent),
+  Anandas Partner und Co-Begründer der DSCT; löst bei Erhalt des
   Warnbriefs sofort Alarm aus.
 
 ### Amy Woodcrow / James Woodcrow
@@ -344,6 +425,11 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   vorgewarnt. Die Frachtschiffe haben Portsmouth am 02. März 1982
   verlassen.") — historischer Beleg für die Reichweite der Helfenden
   Hände.
+- **Konzeptnotiz (Quelle #8):** "Linke Faust" ist explizit als Titel/
+  Funktion beschrieben, nicht als Name — die Person gibt ihre Identität
+  nie preis. Gilt im Konzept als "erster namentlich bekannter operativer
+  Vertreter der Helfenden Hände in der Gegenwart" und als Bindeglied
+  zwischen historischer und moderner Ebene.
 
 ### Julia Dobson / Mirjam Stanic
 
@@ -351,10 +437,13 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   observieren getarnt (Mutter mit Kinderwagen / Picknick) den
   nordkoreanischen Drohnenführer im Hyde Park.
 
-### Major Haywire, Colonel Wilson
+### Major Haywire, Colonel Anthony Wilson
 
 - **Rolle:** SAS Squadron Commander (Regent Park) bzw. A-Squadron
-  (Herford) — militärische Einsatzleitung der Londoner Abwehroperation.
+  (Herford, voller Name "Anthony Wilson" bestätigt in Quelle #1/#6) —
+  militärische Einsatzleitung der Londoner Abwehroperation; Colonel
+  Wilson leitet zudem das Strategiekommando, das Ananda Khalebendis
+  Masterarbeits-Testszenario prüft.
 
 ### Daniel "Screwdriver" Scewer, Joyceline "Joy" Mbwisha
 
@@ -380,23 +469,89 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 
 ## Historische Ebene: Königreich Baekje, Korea, 650–660 AD
 
+### Geschriebener Manuskripttext (höchste Belegsicherheit)
+
 - **Kaufmann Hyeop, Kaufmann Mok, Kaufmann Baek:** Drei Kaufleute aus dem
   Königreich Baekje (Hauptstadt Sabi/Busosanseong), die sich laut der von
   Corinna gelesenen Recherche-Notizen Joosts (Handschrift-Zitat:
   "Anmerkung: Ich muss zu diesen Themen Professor Mark Peterson, Brigham
   Young Universität kontaktieren") im April 655 AD zu einem gemeinsamen
-  Essen treffen — gemeinsamer Nenner: Handel mit Japan.
+  Essen treffen — gemeinsamer Nenner: Handel mit Japan. Alle drei Namen
+  sind laut Quelle #9/#7 real belegte Baekje-Adelsnamen (siehe unten).
   **Status:** Die im Manuskript tatsächlich ausgeschriebene Szene endet
-  hier (Einladung ins Haus). Die in TEIL A skizzierte Fortsetzung
-  (Seeschlacht, Flucht, vierter Kaufmann "Kim" als Verfolger, Landung auf
-  Taiwan, Gründung der Helfenden Hände durch eine "Rückkehrerin") ist
-  **nur als Konzept/Platzhalter in den Analysenotizen vorhanden, nicht
-  als geschriebener Manuskripttext** — beim Weiterschreiben als offene
-  Kanonentscheidung behandeln, nicht als feststehende Fakten.
-- **Kaufmann "Kim" (vierter Kaufmann, Verfolger):** Nur in den
-  TEIL-A-Notizen erwähnt (Gründer der "Gegengesellschaft"/Vorläufer der
-  Gutseoda) — im ausgeschriebenen Manuskripttext bislang nicht namentlich
-  aufgetreten.
+  hier (Einladung ins Haus). Kein vierter Kaufmann/Verfolger tritt in
+  diesem geschriebenen Text auf.
+
+### ⚠️ Wichtigster offener Punkt: Namenskonflikt bei den Kaufleuten (Konzeptebene)
+
+Die Recherche-/Namensnotizen zur historischen Ebene (Quellen #7 und #9)
+schlagen ein **anderes Namensschema** vor als der bereits geschriebene
+Manuskripttext (Hyeop/Mok/Baek). Das ist noch nicht aufgelöst und sollte
+vor dem Weiterschreiben der historischen Ebene entschieden werden:
+
+- **#7 (`recherche_ad650_korea_baekje_aktuell.md`, Stand Juni 2026)**
+  enthält eine interne Korrekturgeschichte: Ursprünglich (überholt,
+  ausdrücklich als "ÜBERHOLT" markiert) sollte der **vierte, königstreue
+  Kaufmann/Verfolger "Kim"** heißen — mit der (unbeweisbaren, bewusst
+  offen gelassenen) Andeutung einer Verbindung zur nordkoreanischen
+  Kim-Dynastie. Diese Fassung wurde **verworfen**, weil "Kim" historisch
+  ein Silla-Adelsname ist (erste Erwähnung 636 AD), nicht Baekje. Die
+  aktuelle Empfehlung in #7: Der vierte Kaufmann trug ursprünglich einen
+  echten Baekje-Adelsnamen — **"Mok" oder "Sa"** — und erst seine
+  Nachfahren nahmen nach dem Fall Baekjes (660 AD) aus Opportunismus den
+  Namen "Kim" an (Anpassung an die siegreiche Silla-Elite). Für die drei
+  fliehenden Kaufleute selbst schlägt #7 generische Eigennamen ohne
+  Familienname vor (**Hyeok, Sae, Dol**) oder bewusste Namenlosigkeit.
+- **#9 (`figurennamen_baekje_650ad.md`, Stand 16. Juli 2026, jüngeres
+  Dokument als #7)** baut darauf auf und schlägt ein vollständiges,
+  berufsbezogenes Namensschema vor: **Bae** (Reeder/Schiffseigner),
+  **Jil** (Tonwarenhändler), **Dol** (Mineralienhändler), **Gaun**
+  (Zwischenhändler, königstreu — optional mit Adelsnamen-Zusatz "Mok
+  Gaun" oder "Sa Gaun"). Bestätigt ausdrücklich: "Kim" darf für keinen
+  der vier Kaufleute verwendet werden.
+- **Konflikt mit dem bereits geschriebenen Manuskripttext:** Der
+  Manuskripttext (Buch 1) verwendet bereits die Namen **Hyeop, Mok,
+  Baek** für die DREI verbündeten Kaufleute — "Mok" ist dort also einer
+  der drei Freunde, während #7/#9 "Mok" (bzw. "Mok Gaun") als
+  Alternativ-/Adelsnamen des VIERTEN, königstreuen Verfolgers vorsehen.
+  Bei wörtlicher Übernahme der Forschungsempfehlung entstünde ein
+  Namenskonflikt (zwei Figuren mit gegensätzlichen Rollen, die beide
+  "Mok" heißen könnten).
+- **Datumslage (zur Einordnung, nicht zur automatischen Entscheidung):**
+  Gesamtdokument (mit dem geschriebenen Hyeop/Mok/Baek-Text) trägt den
+  Stand 24.12.2026 — chronologisch **später** als #7 (Juni 2026) und #9
+  (16. Juli 2026). Das könnte heißen, dass der geschriebene Text die
+  Namensempfehlung bewusst nicht übernommen hat (z.B. weil er älter
+  entstand und nur später ins Gesamtdokument einsortiert wurde) — das
+  lässt sich aus dem Stand-Datum allein nicht zweifelsfrei klären.
+  **Empfehlung an den Nutzer:** Bitte entscheiden, ob (a) die bereits
+  geschriebenen Namen Hyeop/Mok/Baek als Kanon gelten und die
+  Kim→Mok/Gaun-Forschung nur für einen noch zu schreibenden vierten
+  Charakter (den Verfolger) verwendet wird — dann bräuchte dieser einen
+  anderen Namen als "Mok", um Verwechslung zu vermeiden (z.B. "Sa Gaun");
+  oder (b) die drei Kaufleute gemäß #9 in Bae/Jil/Dol umbenannt werden
+  und der bereits geschriebene Text entsprechend angepasst wird.
+
+### Real belegte Baekje-Adelsnamen und historische Nebenfiguren (Quelle #7/#9, unstrittig)
+
+- Acht dokumentierte, historisch ausgelöschte Baekje-Adelsnamen: **Sa,
+  Yeon, Hyeop, Hae, Jin, Guk, Mok, Baek** (Quelle: Korea-Times-Artikel
+  von Mark Peterson, 2019, sowie weitere Quelle bestätigt). Hyeop, Mok
+  und Baek — die im Manuskript bereits verwendeten Namen — gehören zu
+  dieser Liste, sind also historisch plausibel gewählt.
+- **Gyebaek (계백/階伯):** Real existierender Baekje-General, gestorben
+  660 AD in der Schlacht von Hwangsanbeol (5.000 Mann gegen 50.000
+  Silla-Truppen, tötete vor der Schlacht seine eigene Familie, um sie vor
+  Versklavung zu bewahren). Zeitlich kein Konflikt mit der ~650-AD-
+  Handlung — könnte als real belegte Nebenfigur auftreten.
+- **Seongchung (성충/成忠):** Real existierender Berater/Wesir König
+  Uijas, 656 AD wegen wiederholter Warnungen vor dem König eingesperrt,
+  starb im Gefängnis. War 650 AD noch aktiv am Hof — mögliche
+  Nebenfigur, die die Kaufleute kennen könnten.
+- **Buyeo Pung:** Sohn König Uijas, lebte laut Quelle #7 bereits seit
+  643 AD am Yamato-Hof in Japan (später kurzzeitig König Pungjang der
+  Restaurationsbewegung nach 660 AD) — realer historischer Anker, der
+  zeitlich zur Fluchtroute der Kaufleute durch japanische Gewässer passt.
 
 ---
 
@@ -419,10 +574,16 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   - "rechtes Auge" (o-reun-jjok nun) — Informationsbeschaffung
   - "rechte Schulter" (O-reun-jjok Eoh-gae, Taiwan-HQ) — Finanzen
   - "linke Schulter" (Wollajoek Eogae, Taiwan-HQ) — Wirtschaft/Einkommen
+- **Kleinere Zahlen-/Namensabweichung (Quelle #4, `einfuegen.md`):** Der
+  gleichlautende Textbaustein nennt an derselben Stelle "sieben
+  Anwesende" statt "sechs" (Gesamtdokument) und "zehn Jahre" statt
+  "15 Jahre" finanzielle Reserve — beides vor Mutters Ankunft in der
+  Szene, wo laut Gesamtdokument nur sechs Personen (ohne Mutter) im Raum
+  sind; die Version im Gesamtdokument ist damit intern stimmiger. Nicht
+  übernommen, aber zur Prüfung vermerkt.
 - **Damit aufgelöst (war in TEIL A noch offene Frage):** Der Begriff
   "weinender Berg" ist **kein Symbol/Ungeklärtes**, sondern der reale
-  Deckname des koreanischen Haupt-HQ der Helfenden Hände (siehe
-  Konsistenz-Abschnitt unten).
+  Deckname des koreanischen Haupt-HQ der Helfenden Hände.
 - **Aktivität:** Gab dem BND 2011 den Tipp zur MHHE-Bank (führte
   indirekt zu Klaus Richters Enttarnung/Tod). Warnt 2015 Ananda
   Khalebendi in London vor dem NK-Kommando (über Oenjjog Jumeog). Verfügt
@@ -434,29 +595,86 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
   naheliegende Verbindung (weibliche Führungsfigur mit "letztem Wort").
   **Als Hypothese, nicht als Kanon behandeln**, bis im Manuskript
   bestätigt.
+- **UMACO — "United Mankind Consultancy Organisation" (Konzeptmaterial,
+  Quelle #8, löst die bisher offene Buch-2-Platzhalterfrage "UnMaCo"
+  auf):** Laut Notiz ein **eigenes Projekt der Helfenden Hände** — ihr
+  erster öffentlicher/sichtbarer Akt in 1.400 Jahren. Beschrieben als
+  strukturell andere Organisation als die UNO: keine permanenten
+  Mitglieder/kein Vetorecht, rotierende Führungspositionen,
+  Mehrheitsentscheidungen, Sitz "im Niemandsland" (Westsahara, außerhalb
+  jeder nationalen Rechtsprechung), eigenständig finanziert durch die
+  Helfenden Hände. Erster Programmpunkt: den seit 50 Jahren ungelösten
+  Status der Westsahara klären. Das dürfte die Auflösung des in
+  `welt.md`/README als "UnMaCo, ungeklärt" markierten Buch-2-Kapitels
+  "Afrika, UnMaCo" sein. **Wichtig: reine Konzeptnotiz (Stand Juni 2026),
+  nicht als ausgeschriebener Manuskripttext bestätigt.**
+- **Konzeptidee "Hexenverfolgung als historisches Werkzeug der
+  Gegengesellschaft" (Quelle #8, ältere Teilnotiz "Notiz_Yin_und_Yang.md",
+  Stand 23. Mai 2026):** Eine weitreichende, ausdrücklich unbeweisbare
+  Konzeptidee, wonach die Gegengesellschaft die frühneuzeitlichen
+  Hexenprozesse gezielt als Werkzeug gegen das (dann noch unsichtbare)
+  Frauennetzwerk der Helfenden Hände eingesetzt habe. **Nur Konzeptmaterial
+  für mögliche spätere Kapitel/Dialoge, keine bestätigte Handlung.**
+
+### Die Gegengesellschaft ("Kim-Linie" / Nachfahren des vierten Kaufmanns)
+
+- **Konzeptmaterial (Quelle #8, "Roter Faden", Stand Juni 2026):**
+  Gegenpart zu den Helfenden Händen, gegründet vom vierten,
+  königstreuen Kaufmann (Namenskonflikt siehe oben). Charakterisiert als
+  geduldige Infiltrations-Strategie über 1.400 Jahre: fördert
+  Monokratien/Diktaturen, dient Machthabern, bis man selbst an der Macht
+  ist. Konzept zieht eine (ausdrücklich unbeweisbare, rein strukturelle)
+  Parallele zur Kim-Dynastie Nordkoreas und — vorsichtiger formuliert —
+  zu Xi Jinpings Machtkonzentration in China. Ziel im Endspiel: Taiwan
+  einnehmen, den Schatz sichern, die Helfenden Hände auslöschen, UMACO
+  verhindern. **Diese gesamte Rahmung ist Konzeptmaterial, nicht
+  bestätigter Manuskripttext.**
 
 ### Die "Gutseoda" / HQ "Falkennest"
 
-- Siehe oben (Nordkorea-Abschnitt). Gegenspieler der Helfenden Hände seit
+- Geheime nordkoreanische Spezialeinheit/Gegengesellschaft, siehe oben
+  (Nordkorea-Abschnitt). Gegenspieler der Helfenden Hände seit
   Jahrhunderten.
+- **Standort (neu, Quelle #5):** Kaserne nahe Ch'oso-dong, an einer
+  Nebenstrecke zwischen Yonsa und Kosong-dong/Kyongsong; in der Nähe ein
+  alter, kaum genutzter Passweg mit einer verfallenen Festung aus der
+  Zeit des Königreichs Goguryeo — von Anwohnern gemieden, da dort viele
+  (echte) Todesfälle dokumentiert sind und der Legende nach die Geister
+  verratener Soldaten spuken; zusätzlich ein sicherndes, für die
+  Öffentlichkeit gesperrtes Militärlager in der Gegend.
+- **Neue Sondereinheit "Haedongcheong" ("Blaue Falken", Quelle #5):**
+  Bewacht die Kaserne über dem unterirdischen "Falkennest". Gehört nicht
+  zu den regulären nordkoreanischen Streitkräften; selbst hohe
+  Militärführer haben keinen Einfluss auf sie — sie untersteht wie die
+  Gutseoda selbst ausschließlich dem "obersten Führer".
+- **Vorfall: Tod des Planungschefs von Projekt Mujigage (neu, Quelle
+  #5):** Nachdem zusätzliche Vorschläge in das Projekt eingearbeitet
+  wurden, kam der (nicht namentlich genannte) Planungschef bei einem als
+  Unfall getarnten Sturz in einen Hohlweg ums Leben. Die Leiche wies
+  Verletzungen auf, die nicht zum Sturz passten; die lokale Polizei
+  schloss den Fall dennoch schnell ab, der Leichnam wurde eingeäschert
+  ("um die Geister zu besänftigen" — tatsächlich vermutlich um Beweise zu
+  vernichten). Ergänzt das bisher nur als Stichwort bekannte "Planungschef
+  'verunfallt' — Geheimhaltung gesichert" aus TEIL A.
 
 ### "Nachtfalken"
 
 - Erwähnt in `kap3_korrigiert_20260707.md` als Angreifer-Gruppe (Anschlag
   auf McAllan/Corinna in Dubai, Okt. 2018). **Offen, ob identisch mit
   "Gutseoda"/"Falkennest"** aus dem Nordkorea-Strang (thematisch naheliegend
-  — "Falken"-Bildsprache in beiden Namen) oder eine eigenständige,
-  bislang nicht näher beschriebene Gruppierung. Siehe Offene Fragen.
+  — "Falken"-Bildsprache in beiden Namen, ebenso wie bei "Haedongcheong"/
+  "Blaue Falken") oder eine eigenständige, bislang nicht näher
+  beschriebene Gruppierung. Siehe Offene Fragen.
 
 ---
 
 ## Offene Fragen / Namens- und Schreibvarianten (zur Prüfung/Entscheidung)
 
-1. **Satria Chow / "Tia":** In `band1_dobson_neun.md` heißt sie
-   squat-intern "Tia", in `gesamtdokument_20261224.md` "Satria". Nach
-   Vorrangregel aktuell: **Satria**. Bitte bestätigen, ob "Tia" endgültig
-   verworfen ist (Stil-Skill des Projekts nennt "Tia" als Hauptfigur —
-   das dürfte der ältere Stand sein).
+1. **Satria Chow / "Tia":** In `band1_dobson_neun.md` und
+   `band1_dobson_neun_normseiten.md` heißt sie squat-intern durchgängig
+   "Tia", in `gesamtdokument_20261224.md` "Satria" (bestätigt durch
+   identischen Szenentext mit nur diesem einen Namensunterschied). Nach
+   Vorrangregel aktuell: **Satria**. "Tia" ist der ältere/Rohfassungs-Stand.
 2. **Ajwad Boussafa vs. Boufassar:** Innerhalb *derselben* Szene im
    Gesamtdokument wechselt die Schreibweise von "Boussafa" zu
    "Boufassar" und zurück (Zeilen ~15537–15816 vs. 16858). Redaktioneller
@@ -475,10 +693,21 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 5. **AIVD-Schreibweise:** Im Text uneinheitlich als "AIVD", "AVID" und
    "AVNL" abgekürzt (korrekt wäre AIVD = Algemene Inlichtingen- en
    Veiligheidsdienst). Redaktionelle Konsistenzfrage, keine inhaltliche.
-6. **"Nachtfalken" vs. "Gutseoda"/"Falkennest":** Siehe Abschnitt
-   Organisationen — Gleichsetzung plausibel, aber nicht belegt.
+6. **"Nachtfalken" vs. "Gutseoda"/"Falkennest"/"Haedongcheong":** Siehe
+   Abschnitt Organisationen — Gleichsetzung plausibel, aber nicht belegt.
 7. **"Chefin" (2018) vs. "Mutter"/"Eomeoni" (Buch 1, Korea):** Plausible,
    aber unbestätigte Identität derselben Führungsfigur.
+8. **"Balddae" vs. "Gutseoda":** `einfuegen.md` (Quelle #4) nennt die
+   Gegenorganisation an der entsprechenden Stelle "Balddae" statt
+   "Gutseoda" (Gesamtdokument) bzw. "Gutseoda" (`zwischenkapitel_
+   schwarz_balddae.md`, Quelle #5, trotz des Dateinamens). Zwei von drei
+   Quellen bestätigen "Gutseoda" — "Balddae" vermutlich ein älterer/
+   verworfener Arbeitsname.
+9. **Namenskonflikt der vier Kaufleute der historischen Ebene** (Hyeop/
+   Mok/Baek im geschriebenen Text vs. Bae/Jil/Dol/Gaun in den neueren
+   Namensrecherchen #7/#9, mit "Mok" als möglicher Doppelbelegung) — siehe
+   ausführlich im Abschnitt "Historische Ebene" oben. **Wichtigster
+   offener Punkt dieser Aktualisierung**, benötigt eine Nutzerentscheidung.
 
 **Hinweis (kein offener Punkt mehr):** Das Rohmaterial überschreibt zwei
 inhaltlich unterschiedliche Szenen zufällig beide mit "Kapitel 3"

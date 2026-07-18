@@ -2,7 +2,8 @@
 
 Alle Angaben sind aus `recherche/quellenmaterial/` belegt (Vorrangregel:
 `kap3_korrigiert_20260707.md` > `gesamtdokument_20261224.md` >
-`band1_dobson_neun.md`). Empfehlungen/Analysen aus TEIL A des
+`band1_dobson_neun.md`; für #4–#9 siehe `quellen.md` und die
+Einzelvermerke unten). Empfehlungen/Analysen aus TEIL A des
 Gesamtdokuments sind ausdrücklich als **Vorschlag, nicht Kanon**
 markiert. Als Ordnungs-/Referenzprinzip verwendet dieses Dokument
 durchgehend **Handlungsstränge**, nicht die im Rohmaterial vergebenen
@@ -35,21 +36,74 @@ umgesetzt.
 
 ## Zeitebenen im Überblick
 
-1. **650–660 AD** — Königreich Baekje (Korea): drei Kaufleute (Hyeop,
-   Mok, Baek), Ursprung des Konflikts um verstecktes Vermögen. Im
-   Manuskript nur als Einstiegsszene ausgeschrieben (Einladung zum
-   gemeinsamen Essen); die von TEIL A skizzierte Fortsetzung
-   (Seeschlacht, Flucht nach Taiwan, Gründung der Helfenden Hände) ist
-   **Konzept, nicht geschriebener Text**.
+1. **650–660 AD** — Königreich Baekje (Korea): drei Kaufleute — **Bae**
+   (Reeder/Schiffseigner), **Jil** (Tonwarenhändler), **Dol**
+   (Mineralienhändler) — Ursprung des Konflikts um verstecktes Vermögen.
+   Ein vierter, königstreuer Kaufmann, **Gaun** (Zwischenhändler),
+   gründet als Verfolger die Gegengesellschaft (Konzeptebene, siehe
+   unten). Im Manuskript nur als Einstiegsszene ausgeschrieben (Einladung
+   zum gemeinsamen Essen); die Fortsetzung (Seeschlacht, Flucht nach
+   Taiwan, Gründung der Helfenden Hände) ist inzwischen als
+   **ausgearbeitetes Konzept** vorhanden (siehe Abschnitt "Historischer
+   Handlungsbogen" unten), aber weiterhin **nicht als Manuskript-Prosa
+   geschrieben**.
+   **Namensentscheidung (Nutzer-Entscheid, siehe `figuren.md` und
+   `quellen.md`):** Die früher verwendeten Namen **Hyeop, Mok, Baek**
+   (drei Kaufleute) sowie der nur konzeptionelle vierte Kaufmann "**Kim**"
+   gelten als **frühere/verworfene Namensversion**. Aktueller Kanon:
+   Hyeop → Bae, Mok → Jil, Baek → Dol, (konzeptioneller) vierter
+   Kaufmann → Gaun.
 2. **2011–2015** — Haupthandlung Buch 1 (New York, Pyeongyang, Moskau,
    Brisbane/Australien, Kuala Lumpur/Südchinesisches Meer, Assen/Den
    Haag/Groningen, Hamburg, Donbass/Amsterdam, Malaysia, Libyen/Westsahara,
    London).
 3. **Juni 2015 ff.** — Buch 2 (London-Anschlag, danach geplante
-   Abschnitte zu Korea, "Feinde"/Gutseoda, Afrika/UnMaCo, Recherche/Geld
-   — Stand Manuskript: nur die London-Szene ist vollständig
-   ausgeschrieben, Rest sind Platzhalter, siehe Zeitleiste).
+   Abschnitte zu Korea, "Feinde"/Gutseoda, **Afrika/UMACO** — siehe
+   Auflösung unten —, Recherche/Geld — Stand Manuskript: nur die
+   London-Szene ist vollständig ausgeschrieben, Rest sind Platzhalter,
+   siehe Zeitleiste).
 4. **2018** — Rahmenhandlung Corinna/McAllan (Hamburg, Dubai, Wüste).
+
+## Historischer Handlungsbogen 650 AD (jetzt ausgearbeitetes Konzept — Quelle #7)
+
+`recherche_ad650_korea_baekje_aktuell.md` enthält einen vollständig
+ausgearbeiteten Handlungsbogen für die historische Ebene. **Wichtig:
+Das ist ein ausformuliertes Konzept/Beat-Sheet, kein bereits
+geschriebener Manuskripttext** — die Namen der Kaufleute wurden hier auf
+den aktuellen Stand (Bae/Jil/Dol/Gaun) angepasst:
+
+1. **Ausgangssituation:** Bae, Jil und Dol haben gemeinsam ein
+   außergewöhnliches, technisch überlegenes Segelboot entwickelt
+   (Seitenschwert/Leeboard nach chinesischem Vorbild — historisch für
+   China ab dem 8. Jh. belegt, als frühe Übernahme nach Baekje plausibel,
+   siehe Schiffsbau-Quellenlage unten). Der vierte, königstreue Kaufmann
+   Gaun will das Boot im Interesse (oder Auftrag) der Krone an sich
+   bringen.
+2. **Eskalation:** Seeschlacht, die die drei nicht gewinnen, aber
+   überleben; Flucht durch eine japanische Meerenge, die Gauns größeres/
+   tiefergehendes Boot nicht durchfahren kann; Reparaturspuren in Japan
+   verraten ihren Aufenthalt; erneute Flucht Richtung Okinawa/Ryukyu.
+3. **Zuspitzung bei Okinawa:** Kein offener Kampf möglich (Verfolger
+   zahlenmäßig überlegen); örtliche Fischer berichten von Land "über eine
+   Woche Hochseefahrt entfernt" — unbestätigt, unkartiert.
+4. **Wendepunkt:** Eine sehr alte, sterbende Frau rät, "dem Stern zu
+   folgen".
+5. **Entscheidung:** Aufbruch ins offene Meer, nur nach dem Stern,
+   Richtung unbekannt.
+6. **Was zurückbleibt:** Dorfbewohner bei Okinawa werden von den
+   Verfolgern befragt und getötet; in Korea werden alle Familien im
+   Umfeld der drei Kaufleute ausgelöscht — als (fiktive) Erklärung für
+   das real dokumentierte historische Phänomen, dass ungewöhnlich viele
+   koreanische Familiennamen im Mittelalter verschwanden.
+
+**Historische Belegbarkeit der Einzelelemente (Quelle #7, kritisch
+geprüft):** Baekje-Seehandel mit Japan ✅ gut belegt; Navigation nach
+Sternen ✅ gut belegt; Okinawa als vage bekannte, aber nicht als
+Handelsziel belegte Inselgruppe ⚠️ plausibel; Taiwan als 650-AD-Ziel ❌
+nicht belegbar (frühste chinesische Taiwan-Kontakte erst ab Sui-Expeditionen
+607–610, Ostküste Taiwans für alle Außenstehenden der Zeit praktisch
+unsichtbar — siehe Schauplätze unten); flachbödige koreanische Schiffe
+✅ gut belegt, fester Kiel ❌ historisch unpassend.
 
 ## Wichtige Schauplätze
 
@@ -65,9 +119,20 @@ umgesetzt.
   hervorgegangen ("Chiyu Haneun Gohyang"/"Chi-yu-i jeol"). **Kanon** laut
   dem Dobneun-Son/Helfende-Hände-Strang in Buch 1 — nicht mehr offene
   Frage (siehe Zeitleiste/Konsistenz).
+- **Ch'oso-dong / Yonsa / Kosong-dong (Nordkorea, neu — Quelle #5):**
+  Gegend um das "Falkennest"-HQ der Gutseoda. Nebenstrecke zwischen Yonsa
+  und Kosong-dong/Kyongsong; alter Passweg mit einer verfallenen Festung
+  aus dem Königreich Goguryeo, von Anwohnern gemieden ("Geister
+  verratener Soldaten"), zusätzlich gesperrtes Militärlager in der
+  Gegend. Bewacht von der neuen Sondereinheit "Haedongcheong"/"Blaue
+  Falken" (siehe Organisationsregeln unten).
 - **Taiwan** — zweites HQ der Helfenden Hände (Finanzen/Wirtschaft);
-  Ostküste als vermuteter Ort der 650-AD-Schätze (nur als
-  Analyse-Hypothese in TEIL A, nicht im Manuskripttext bestätigt).
+  Ostküste als vermuteter Ort der 650-AD-Schätze. Historisch: Die
+  Westküste Taiwans war China durch die Sui-Expeditionen (607–610 AD)
+  bekannt, die Ostküste (durch das bis 3.860 m hohe Zentralgebirge
+  abgeriegelt) war für alle Außenstehenden der damaligen Zeit praktisch
+  unsichtbar — historisch belegte Grundlage für die "perfekte
+  Unsichtbarkeit" des Dorfes (Quelle #7).
 - **Moskau / Russland** — Vorbereitung der BUK-Rakete (Hauptverwaltung
   für Raketen und Artillerie, Kursk, 53. Luftabwehrbrigade), Verbindung
   zum MH17-Abschuss.
@@ -90,7 +155,7 @@ umgesetzt.
   (Feb. 2015), Bibi Kaur/Satria Chow.
 - **Libyen / Westsahara** — Expedition von Dr. Benjamin Dingaka
   (Bodenproben, vermutetes Goldvorkommen), bewacht von Bibi Kaur und
-  Satria Chow.
+  Satria Chow. Zugleich vorgesehener Sitz von **UMACO** (siehe unten).
 - **London** — Wohnsitz/Labor Dr. Dingakas (Luftschutzbunker als
   Probenlager); Schauplatz des vereitelten nordkoreanischen Anschlags
   (Buch 2, Juni 2015): Hyde Park (Drohnenüberwachung), DSCT/Scotland
@@ -110,8 +175,15 @@ umgesetzt.
 - **Korea 650–660 AD, Königreich Baekje:** Historisch belegte
   Rahmendaten (Untergang 660 AD durch Silla/Tang-Allianz, Hauptstadt
   Sabi/Busosanseong, Herrscher Mu und Uija) werden im Manuskript korrekt
-  zitiert (inkl. Handschriftzitat "Prof. Mark Peterson, Brigham Young
-  Universität" als fiktive Rechercheanmerkung Joosts).
+  zitiert. Zusätzlich real belegt (Quelle #7/#9): acht historisch
+  ausgelöschte Baekje-Adelsnamen (Sa, Yeon, Hyeop, Hae, Jin, Guk, Mok,
+  Baek — die früher im Manuskript für die drei Kaufleute verwendeten
+  Namen stammen aus dieser Liste); reale Personen Gyebaek (General,
+  gest. 660 AD, Schlacht von Hwangsanbeol) und Seongchung (Berater König
+  Uijas, gest. 656 AD im Gefängnis) als mögliche historische
+  Nebenfiguren; Baekje-Prinz Buyeo Pung lebte bereits ab 643 AD am
+  Yamato-Hof in Japan — realer zeitlicher Anker für die Fluchtroute durch
+  japanische Gewässer.
 - **Falklandkrieg 1982:** Wird als historischer Beleg für die Reichweite
   der Helfenden Hände angeführt (Vorwarnung an Frau Thatcher,
   Frachtschiffe verlassen Portsmouth am 02.03.1982).
@@ -144,16 +216,49 @@ umgesetzt.
   Offene Fragen).
 - Gegenorganisation: **Gutseoda**, HQ **"Falkennest"** (Nordkorea, nahe
   Ch'oso-dong), nur dem "obersten Führer" unterstellt, jahrhundertealte
-  Feindschaft mit den Helfenden Händen. Verhältnis zu den 2018 in Dubai
-  auftretenden **"Nachtfalken"** ungeklärt (siehe Offene Fragen in
-  `figuren.md`).
+  Feindschaft mit den Helfenden Händen. Bewacht von der Sondereinheit
+  **"Haedongcheong"/"Blaue Falken"** (neu, Quelle #5) — ebenfalls nur dem
+  "obersten Führer" unterstellt, außerhalb der regulären Kommandokette.
+  Verhältnis zu den 2018 in Dubai auftretenden **"Nachtfalken"** ungeklärt
+  (siehe Offene Fragen in `figuren.md`).
+- **UMACO — "United Mankind Consultancy Organisation" (jetzt aufgelöst:
+  das ist die Bedeutung von "UnMaCo" aus dem Buch-2-Platzhalterkapitel
+  "Afrika, UnMaCo" — vom Nutzer bestätigt).** Laut Konzeptnotiz (Quelle
+  #8, Stand Juni 2026) ein eigenes Projekt der Helfenden Hände: ihr
+  erster öffentlicher Auftritt in 1.400 Jahren, konzipiert als
+  strukturell andere Organisation als die UNO (keine permanenten
+  Mitglieder/kein Veto, rotierende Führung, Mehrheitsentscheidungen),
+  mit Sitz in der Westsahara (außerhalb jeder nationalen
+  Rechtsprechung), finanziert durch die Helfenden Hände. Erster
+  Programmpunkt: den ungelösten Status der Westsahara klären. **Wichtig:
+  Das ist Konzeptmaterial (Notizen), nicht bereits als Manuskripttext
+  ausgeschrieben** — die acht Buch-2-Platzhalterszenen zu "Afrika,
+  UnMaCo" selbst sind weiterhin nur Platzhalter ohne Text.
 - Die Finanzierung der Helfenden Hände wird im Dobneun-Son/Helfende-
   Hände-Strang (Zentrale) explizit benannt: eigenes
   "Finanzierungsprogramm", Kontakte/Kandidaten bei Zentralbanken
-  (genannt: Deutsche Bundesbank, alternativ Singapur) — passend zur
-  TEIL-A-Hypothese, dass Taiwan/die 650-AD-Schätze die wirtschaftliche
-  Basis der Organisation bilden (dort aber ausdrücklich als
-  offene/unbestätigte Idee markiert).
+  (genannt: Deutsche Bundesbank, alternativ Singapur) — passt zum
+  UMACO-Konzept (Westsahara-Finanzierung durch die Helfenden Hände
+  selbst).
+
+## Konzeptueller Gesamtbogen (Quelle #8, "Roter Faden", Stand Juni 2026 — als "verbindlich" bezeichnet, aber weiterhin Konzeptmaterial, kein Manuskripttext)
+
+Diese Notiz beschreibt eine Motiv-Klammer, die MH370, MH17 und den
+Londoner Anschlag als koordinierte Sabotage der Gegengesellschaft gegen
+die UMACO-Vorbereitung deutet:
+
+| Jahr | Ereignis | Angebliches Motiv laut Konzept |
+|---|---|---|
+| 2011 | Tod des BND-Manns (New York) | Warnsignal der Gegengesellschaft ("Wir sehen euch") |
+| 2013 | Beginn Projekt Mujigage | UMACO-Finanzierung sabotieren |
+| 2014 | MH370 | Sabotageakt gegen UMACO-Vorbereitung |
+| 2014 | MH17 | Eliminierung von Joost van der Dijkstraat |
+| 2015 | London/Dr. Dingaka | Verhinderung der Westsahara-Eignungsprüfung |
+
+**Diese Motiv-Klammer ist nicht im geschriebenen Manuskripttext bestätigt
+— sie ist die Erklärung, die die Konzeptnotizen für den roten Faden des
+Buches vorschlagen.** Beim Weiterschreiben als Vorschlag, nicht als
+feststehenden Kanon behandeln, sofern nicht anders vom Nutzer festgelegt.
 
 ## Offene Strukturfragen aus TEIL A (Analyse, nicht Kanon)
 
@@ -173,3 +278,15 @@ sie als Kanon behandelt werden:
   über 1.400 Jahre (starke TEIL-A-Hypothese) — im Manuskripttext bisher
   nicht bestätigt, aber die Existenz eines Taiwan-HQ
   (Dobneun-Son/Helfende-Hände-Strang, Buch 1) stützt die Idee.
+
+## Hinweis zur technischen Umsetzung der Namensänderung (Bae/Jil/Dol/Gaun)
+
+Die Namensentscheidung ist hier sowie in `figuren.md`/`zeitleiste.md`
+vollständig als aktueller Kanon eingetragen. Eine **automatisierte
+Textersetzung direkt in den großen Rohmaterial-Dateien**
+(`gesamtdokument_20261224.md`, `band1_dobson_neun.md` — jeweils
+15.000–18.000 Zeilen) war mit den verfügbaren Werkzeugen (nur
+Lesen/Volltext-Schreiben, kein Such-Ersetzen-Werkzeug) nicht risikofrei
+möglich, ohne die Dateien komplett neu zu schreiben. Die exakten
+Fundstellen für eine manuelle Ersetzung sind in `quellen.md` (Vermerke
+zu #7/#9) sowie in `figuren.md` dokumentiert.
