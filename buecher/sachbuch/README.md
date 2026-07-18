@@ -22,7 +22,8 @@ buecher/sachbuch/
 
 1. **Recherche** — `sachbuch-rechercheur` sammelt und prüft Fakten/Quellen zu einem Kapitel, Ergebnis landet in `recherche/<kapitel-slug>.md`.
 2. **Schreiben** — `sachbuch-schreiber` verfasst das Kapitel in `manuskript/` auf Basis des Dossiers.
-3. **Lektorat** — `sachbuch-lektor` prüft das fertige Kapitel auf Stil, Struktur und Beleglücken.
+3. **Schriftsteller (Stil)** — `sachbuch-schriftsteller` bringt den Text in den für dieses Sachbuch geltenden Schreibstil (eigener Skill, falls vorhanden, sonst Vorgaben aus dieser README).
+4. **Lektorat** — `sachbuch-lektor` prüft das fertige Kapitel auf Stil, Struktur und Beleglücken.
 
 ## Kapitelübersicht
 
