@@ -5,10 +5,12 @@ Steckbriefe, so wie sie aus dem Quellenmaterial belegt sind (siehe
 `kap3_korrigiert_20260707.md` > `gesamtdokument_20261224.md` (TEIL B/C) >
 `band1_dobson_neun.md`. Für die später hinzugekommenen Quellen #4–#9
 (siehe `quellen.md`) gilt keine feste Vorrangregel — Widersprüche werden
-unten offen dokumentiert statt einseitig aufgelöst. Nicht belegte Details
-sind nicht ergänzt — offene Punkte stehen unter "Offene Fragen" am Ende
-der jeweiligen Figur oder im Abschnitt "Offene Fragen / Widersprüche"
-ganz unten.
+unten offen dokumentiert statt einseitig aufgelöst, **außer wo der Nutzer
+inzwischen eine explizite Entscheidung getroffen hat** (siehe historische
+Ebene unten: Namen der vier Kaufleute). Nicht belegte Details sind nicht
+ergänzt — offene Punkte stehen unter "Offene Fragen" am Ende der
+jeweiligen Figur oder im Abschnitt "Offene Fragen / Widersprüche" ganz
+unten.
 
 Als Ordnungs-/Referenzprinzip verwendet dieses Dokument durchgehend
 **Handlungsstränge** (z.B. "Nordkorea/Geheimdienst-Strang",
@@ -469,76 +471,88 @@ Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 
 ## Historische Ebene: Königreich Baekje, Korea, 650–660 AD
 
-### Geschriebener Manuskripttext (höchste Belegsicherheit)
+### ✅ Namensentscheidung (Nutzer-Entscheid, gilt als aktueller Kanon)
 
-- **Kaufmann Hyeop, Kaufmann Mok, Kaufmann Baek:** Drei Kaufleute aus dem
-  Königreich Baekje (Hauptstadt Sabi/Busosanseong), die sich laut der von
-  Corinna gelesenen Recherche-Notizen Joosts (Handschrift-Zitat:
-  "Anmerkung: Ich muss zu diesen Themen Professor Mark Peterson, Brigham
-  Young Universität kontaktieren") im April 655 AD zu einem gemeinsamen
-  Essen treffen — gemeinsamer Nenner: Handel mit Japan. Alle drei Namen
-  sind laut Quelle #9/#7 real belegte Baekje-Adelsnamen (siehe unten).
-  **Status:** Die im Manuskript tatsächlich ausgeschriebene Szene endet
-  hier (Einladung ins Haus). Kein vierter Kaufmann/Verfolger tritt in
-  diesem geschriebenen Text auf.
+Der Nutzer hat entschieden: Die vier Kaufleute der historischen Ebene
+heißen **Bae, Jil, Dol und Gaun** (Quelle #9, `figurennamen_baekje_650ad.md`,
+Stand 16. Juli 2026), nicht mehr Hyeop/Mok/Baek/"Kim". Zuordnung zu den
+im bereits geschriebenen Manuskripttext (Buch 1, Dinner-Szene im Haus
+Hyeop) verwendeten Namen:
 
-### ⚠️ Wichtigster offener Punkt: Namenskonflikt bei den Kaufleuten (Konzeptebene)
+| Frühere Namensversion (Manuskripttext/Konzept) | Aktueller Name (Kanon) | Funktion |
+|---|---|---|
+| Hyeop (Gastgeber, initiiert das Treffen) | **Bae** | Reeder/Schiffseigner |
+| Mok (erster geladener Gast) | **Jil** | Tonwarenhändler |
+| Baek/"Beak" (zweiter geladener Gast) | **Dol** | Mineralienhändler |
+| "Kim" (nur konzeptioneller vierter Kaufmann, nie geschrieben) | **Gaun** | Zwischenhändler, königstreu (Verfolger) |
 
-Die Recherche-/Namensnotizen zur historischen Ebene (Quellen #7 und #9)
-schlagen ein **anderes Namensschema** vor als der bereits geschriebene
-Manuskripttext (Hyeop/Mok/Baek). Das ist noch nicht aufgelöst und sollte
-vor dem Weiterschreiben der historischen Ebene entschieden werden:
+**Begründung der Zuordnung (da der geschriebene Text selbst keine
+Berufe/Funktionen für Hyeop/Mok/Baek nennt, nur dass sie "verschiedene
+Schwerpunkte im Handelsgeschäft" hatten):** Hyeop ist im Text der
+Gastgeber, der das Treffen einberuft — das passt zur Beschreibung von
+"Bae" in Quelle #9 als "Schlüsselfigur", die die Verbindung zwischen den
+drei Kaufleuten herstellt und (konzeptionell) das besondere Schiff
+besitzt. Mok/Baek wurden in der Reihenfolge ihrer Einführung im Text auf
+Jil/Dol gemappt. **Diese Zuordnung ist eine editorische Interpretation,
+keine im Manuskripttext explizit belegte Tatsache** — falls der Nutzer
+eine andere Zuordnung wünscht, ist das jederzeit änderbar.
 
-- **#7 (`recherche_ad650_korea_baekje_aktuell.md`, Stand Juni 2026)**
-  enthält eine interne Korrekturgeschichte: Ursprünglich (überholt,
-  ausdrücklich als "ÜBERHOLT" markiert) sollte der **vierte, königstreue
-  Kaufmann/Verfolger "Kim"** heißen — mit der (unbeweisbaren, bewusst
-  offen gelassenen) Andeutung einer Verbindung zur nordkoreanischen
-  Kim-Dynastie. Diese Fassung wurde **verworfen**, weil "Kim" historisch
-  ein Silla-Adelsname ist (erste Erwähnung 636 AD), nicht Baekje. Die
-  aktuelle Empfehlung in #7: Der vierte Kaufmann trug ursprünglich einen
-  echten Baekje-Adelsnamen — **"Mok" oder "Sa"** — und erst seine
-  Nachfahren nahmen nach dem Fall Baekjes (660 AD) aus Opportunismus den
-  Namen "Kim" an (Anpassung an die siegreiche Silla-Elite). Für die drei
-  fliehenden Kaufleute selbst schlägt #7 generische Eigennamen ohne
-  Familienname vor (**Hyeok, Sae, Dol**) oder bewusste Namenlosigkeit.
-- **#9 (`figurennamen_baekje_650ad.md`, Stand 16. Juli 2026, jüngeres
-  Dokument als #7)** baut darauf auf und schlägt ein vollständiges,
-  berufsbezogenes Namensschema vor: **Bae** (Reeder/Schiffseigner),
-  **Jil** (Tonwarenhändler), **Dol** (Mineralienhändler), **Gaun**
-  (Zwischenhändler, königstreu — optional mit Adelsnamen-Zusatz "Mok
-  Gaun" oder "Sa Gaun"). Bestätigt ausdrücklich: "Kim" darf für keinen
-  der vier Kaufleute verwendet werden.
-- **Konflikt mit dem bereits geschriebenen Manuskripttext:** Der
-  Manuskripttext (Buch 1) verwendet bereits die Namen **Hyeop, Mok,
-  Baek** für die DREI verbündeten Kaufleute — "Mok" ist dort also einer
-  der drei Freunde, während #7/#9 "Mok" (bzw. "Mok Gaun") als
-  Alternativ-/Adelsnamen des VIERTEN, königstreuen Verfolgers vorsehen.
-  Bei wörtlicher Übernahme der Forschungsempfehlung entstünde ein
-  Namenskonflikt (zwei Figuren mit gegensätzlichen Rollen, die beide
-  "Mok" heißen könnten).
-- **Datumslage (zur Einordnung, nicht zur automatischen Entscheidung):**
-  Gesamtdokument (mit dem geschriebenen Hyeop/Mok/Baek-Text) trägt den
-  Stand 24.12.2026 — chronologisch **später** als #7 (Juni 2026) und #9
-  (16. Juli 2026). Das könnte heißen, dass der geschriebene Text die
-  Namensempfehlung bewusst nicht übernommen hat (z.B. weil er älter
-  entstand und nur später ins Gesamtdokument einsortiert wurde) — das
-  lässt sich aus dem Stand-Datum allein nicht zweifelsfrei klären.
-  **Empfehlung an den Nutzer:** Bitte entscheiden, ob (a) die bereits
-  geschriebenen Namen Hyeop/Mok/Baek als Kanon gelten und die
-  Kim→Mok/Gaun-Forschung nur für einen noch zu schreibenden vierten
-  Charakter (den Verfolger) verwendet wird — dann bräuchte dieser einen
-  anderen Namen als "Mok", um Verwechslung zu vermeiden (z.B. "Sa Gaun");
-  oder (b) die drei Kaufleute gemäß #9 in Bae/Jil/Dol umbenannt werden
-  und der bereits geschriebene Text entsprechend angepasst wird.
+**Wichtiger Werkzeug-Hinweis:** Diese Umbenennung ist hier sowie in
+`welt.md`/`zeitleiste.md` vollständig als Kanon dokumentiert. Eine
+direkte Textersetzung in den großen Rohmaterial-Arbeitskopien
+(`gesamtdokument_20261224.md`, `band1_dobson_neun.md` — jeweils
+15.000–18.000 Zeilen) konnte **nicht durchgeführt werden**, da dem
+Rechercheur nur Lese- und Volltext-Schreib-Werkzeuge zur Verfügung
+stehen (kein Such-Ersetzen-Werkzeug) und ein vollständiges Neuschreiben
+so großer Dateien nicht risikofrei möglich ist. Zur manuellen
+Nachbearbeitung die exakten Fundstellen (nur diese Vorkommen betreffen
+die Kaufleute-Szene — an anderen Stellen kommen "Mok"/"Baek" nicht vor,
+"Baek" jedoch an anderer Stelle als Nachname einer nicht verwandten Figur
+"Dr. Oon Ki Baek", **nicht** mit ersetzen):
+- `gesamtdokument_20261224.md`: Zeilen 13702, 13703, 13706, 13707, 13709,
+  13711, 13717, 13720, 13721, 13723, 13729 (Hyeop→Bae, Mok→Jil,
+  Baek/Beak→Dol).
+- `band1_dobson_neun.md`: Zeilen 13423, 13424, 13427, 13428, 13430, 13439,
+  13445, 13449, 13458 (dieselbe Szene, gleiche Ersetzung).
+- `recherche_ad650_korea_baekje_aktuell.md`: Die dort dokumentierte
+  "Kim→Mok"-Korrekturhistorie (Abschnitt "ANHANG A") ist mit dieser
+  Nutzerentscheidung **überholt** (jetzt gilt Gaun statt Mok für den
+  vierten Kaufmann) — die Datei wurde nicht editiert, um die
+  Korrekturhistorie als Audit-Trail zu erhalten; die Überholung ist hier
+  sowie in `quellen.md` dokumentiert.
+
+### Geschriebener Manuskripttext (Inhalt, jetzt mit aktuellen Namen)
+
+- **Bae, Jil und Dol** treffen sich laut der von Corinna gelesenen
+  Recherche-Notizen Joosts (Handschrift-Zitat: "Anmerkung: Ich muss zu
+  diesen Themen Professor Mark Peterson, Brigham Young Universität
+  kontaktieren") im April 655 AD zu einem gemeinsamen Essen im Haus
+  Bae's, Sabi (Hauptstadt Baekjes) — gemeinsamer Nenner: Handel mit
+  Japan. **Status:** Die im Manuskript tatsächlich ausgeschriebene Szene
+  endet hier (Einladung ins Haus). Gaun (der vierte, königstreue
+  Kaufmann/Verfolger) tritt in diesem geschriebenen Text nicht auf — er
+  existiert bisher nur als Konzeptfigur.
+
+### Historischer Handlungsbogen (jetzt ausgearbeitetes Konzept, Quelle #7 — nicht geschriebener Manuskripttext)
+
+Ausgangssituation → Eskalation (Seeschlacht, Flucht durch japanische
+Meerenge, Reparatur in Japan, erneute Flucht Richtung Okinawa) →
+Zuspitzung bei Okinawa (keine offene Schlacht möglich, Gerücht von Land
+"eine Woche entfernt") → Wendepunkt (sterbende alte Frau: "dem Stern
+folgen") → Entscheidung (Aufbruch ins offene Meer) → Was zurückbleibt
+(Dorfbewohner bei Okinawa getötet, Familien in Korea ausgelöscht —
+Erklärung für real dokumentiertes Verschwinden koreanischer
+Familiennamen). Vollständige Fassung mit Quellenbelegen in `welt.md`.
 
 ### Real belegte Baekje-Adelsnamen und historische Nebenfiguren (Quelle #7/#9, unstrittig)
 
 - Acht dokumentierte, historisch ausgelöschte Baekje-Adelsnamen: **Sa,
   Yeon, Hyeop, Hae, Jin, Guk, Mok, Baek** (Quelle: Korea-Times-Artikel
   von Mark Peterson, 2019, sowie weitere Quelle bestätigt). Hyeop, Mok
-  und Baek — die im Manuskript bereits verwendeten Namen — gehören zu
-  dieser Liste, sind also historisch plausibel gewählt.
+  und Baek — die früher im Manuskript für die drei Kaufleute verwendeten
+  Namen — gehören zu dieser Liste und bleiben als Beispiel real belegter
+  Baekje-Adelsnamen relevant, auch wenn sie durch Bae/Jil/Dol/Gaun als
+  Vornamen der Hauptfiguren ersetzt wurden.
 - **Gyebaek (계백/階伯):** Real existierender Baekje-General, gestorben
   660 AD in der Schlacht von Hwangsanbeol (5.000 Mann gegen 50.000
   Silla-Truppen, tötete vor der Schlacht seine eigene Familie, um sie vor
@@ -595,19 +609,19 @@ vor dem Weiterschreiben der historischen Ebene entschieden werden:
   naheliegende Verbindung (weibliche Führungsfigur mit "letztem Wort").
   **Als Hypothese, nicht als Kanon behandeln**, bis im Manuskript
   bestätigt.
-- **UMACO — "United Mankind Consultancy Organisation" (Konzeptmaterial,
-  Quelle #8, löst die bisher offene Buch-2-Platzhalterfrage "UnMaCo"
-  auf):** Laut Notiz ein **eigenes Projekt der Helfenden Hände** — ihr
-  erster öffentlicher/sichtbarer Akt in 1.400 Jahren. Beschrieben als
-  strukturell andere Organisation als die UNO: keine permanenten
-  Mitglieder/kein Vetorecht, rotierende Führungspositionen,
+- **✅ UMACO — "United Mankind Consultancy Organisation" (vom Nutzer
+  bestätigt: das ist die Auflösung von "UnMaCo" aus dem
+  Buch-2-Platzhalterkapitel "Afrika, UnMaCo"):** Laut Konzeptnotiz
+  (Quelle #8, Stand Juni 2026) ein **eigenes Projekt der Helfenden
+  Hände** — ihr erster öffentlicher/sichtbarer Akt in 1.400 Jahren.
+  Beschrieben als strukturell andere Organisation als die UNO: keine
+  permanenten Mitglieder/kein Vetorecht, rotierende Führungspositionen,
   Mehrheitsentscheidungen, Sitz "im Niemandsland" (Westsahara, außerhalb
   jeder nationalen Rechtsprechung), eigenständig finanziert durch die
   Helfenden Hände. Erster Programmpunkt: den seit 50 Jahren ungelösten
-  Status der Westsahara klären. Das dürfte die Auflösung des in
-  `welt.md`/README als "UnMaCo, ungeklärt" markierten Buch-2-Kapitels
-  "Afrika, UnMaCo" sein. **Wichtig: reine Konzeptnotiz (Stand Juni 2026),
-  nicht als ausgeschriebener Manuskripttext bestätigt.**
+  Status der Westsahara klären. **Die Bedeutung des Kürzels gilt als
+  geklärt; die acht Buch-2-Platzhalterszenen zu "Afrika, UnMaCo" selbst
+  sind weiterhin nur Platzhalter ohne ausgeschriebenen Text.**
 - **Konzeptidee "Hexenverfolgung als historisches Werkzeug der
   Gegengesellschaft" (Quelle #8, ältere Teilnotiz "Notiz_Yin_und_Yang.md",
   Stand 23. Mai 2026):** Eine weitreichende, ausdrücklich unbeweisbare
@@ -616,19 +630,24 @@ vor dem Weiterschreiben der historischen Ebene entschieden werden:
   Frauennetzwerk der Helfenden Hände eingesetzt habe. **Nur Konzeptmaterial
   für mögliche spätere Kapitel/Dialoge, keine bestätigte Handlung.**
 
-### Die Gegengesellschaft ("Kim-Linie" / Nachfahren des vierten Kaufmanns)
+### Die Gegengesellschaft (Nachfahren des vierten Kaufmanns Gaun)
 
 - **Konzeptmaterial (Quelle #8, "Roter Faden", Stand Juni 2026):**
   Gegenpart zu den Helfenden Händen, gegründet vom vierten,
-  königstreuen Kaufmann (Namenskonflikt siehe oben). Charakterisiert als
-  geduldige Infiltrations-Strategie über 1.400 Jahre: fördert
-  Monokratien/Diktaturen, dient Machthabern, bis man selbst an der Macht
-  ist. Konzept zieht eine (ausdrücklich unbeweisbare, rein strukturelle)
+  königstreuen Kaufmann **Gaun** (frühere Namensversion in den Notizen:
+  "Kim" — siehe Namensentscheidung oben). Charakterisiert als geduldige
+  Infiltrations-Strategie über 1.400 Jahre: fördert Monokratien/
+  Diktaturen, dient Machthabern, bis man selbst an der Macht ist.
+  Konzept zieht eine (ausdrücklich unbeweisbare, rein strukturelle)
   Parallele zur Kim-Dynastie Nordkoreas und — vorsichtiger formuliert —
-  zu Xi Jinpings Machtkonzentration in China. Ziel im Endspiel: Taiwan
-  einnehmen, den Schatz sichern, die Helfenden Hände auslöschen, UMACO
-  verhindern. **Diese gesamte Rahmung ist Konzeptmaterial, nicht
-  bestätigter Manuskripttext.**
+  zu Xi Jinpings Machtkonzentration in China (Namensgleichheit
+  "Kim"/nordkoreanische Kim-Dynastie war der Ausgangspunkt dieser
+  Konzeptidee, bevor der Name des vierten Kaufmanns auf Gaun korrigiert
+  wurde — die strukturelle Parallele bleibt im Konzept unabhängig vom
+  Namen bestehen). Ziel im Endspiel: Taiwan einnehmen, den Schatz
+  sichern, die Helfenden Hände auslöschen, UMACO verhindern. **Diese
+  gesamte Rahmung ist Konzeptmaterial, nicht bestätigter
+  Manuskripttext.**
 
 ### Die "Gutseoda" / HQ "Falkennest"
 
@@ -703,11 +722,10 @@ vor dem Weiterschreiben der historischen Ebene entschieden werden:
    schwarz_balddae.md`, Quelle #5, trotz des Dateinamens). Zwei von drei
    Quellen bestätigen "Gutseoda" — "Balddae" vermutlich ein älterer/
    verworfener Arbeitsname.
-9. **Namenskonflikt der vier Kaufleute der historischen Ebene** (Hyeop/
-   Mok/Baek im geschriebenen Text vs. Bae/Jil/Dol/Gaun in den neueren
-   Namensrecherchen #7/#9, mit "Mok" als möglicher Doppelbelegung) — siehe
-   ausführlich im Abschnitt "Historische Ebene" oben. **Wichtigster
-   offener Punkt dieser Aktualisierung**, benötigt eine Nutzerentscheidung.
+
+**Erledigt (kein offener Punkt mehr):** Der frühere Punkt 9 ("Namenskonflikt
+der vier Kaufleute") ist durch die Nutzerentscheidung Bae/Jil/Dol/Gaun
+(siehe Abschnitt "Historische Ebene" oben) aufgelöst.
 
 **Hinweis (kein offener Punkt mehr):** Das Rohmaterial überschreibt zwei
 inhaltlich unterschiedliche Szenen zufällig beide mit "Kapitel 3"

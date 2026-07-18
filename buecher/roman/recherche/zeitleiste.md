@@ -16,13 +16,20 @@ wird hier bewusst nicht als Ordnungskriterium übernommen. Die Spalte
 "Handlungsstrang / Quelle" nennt stattdessen den thematischen Strang plus
 die Fundstelle in der jeweiligen Quelldatei zur Nachvollziehbarkeit.
 
+**Namensstand historische Ebene (Nutzer-Entscheid):** Die vier Kaufleute
+heißen **Bae, Jil, Dol, Gaun** (siehe `figuren.md`). Frühere
+Namensversionen (Hyeop, Mok, Baek, konzeptionell "Kim") werden hier nur
+noch zur Fundstellen-Nachvollziehbarkeit in Klammern mitgeführt, da der
+Originaltext in den Rohmaterial-Dateien noch die alten Namen verwendet
+(technische Gründe, siehe `figuren.md`, Abschnitt "Historische Ebene").
+
 ## Historische Ebene
 
 | Zeitpunkt | Ereignis | Handlungsstrang / Quelle |
 |---|---|---|
 | 600–655 AD | Königreich Baekje (Korea) auf dem Höhepunkt der Macht; König Uija folgt 641 auf König Mu | Historische Ebene (Baekje 650 AD), GD Z.13667 ff. |
-| April 655 AD | Die Kaufleute Hyeop, Mok und Baek treffen sich zum gemeinsamen Essen im Haus Hyeop, Sabi (Handelsschwerpunkt Japan) — **Szene endet hier im Manuskript**, Fortsetzung nicht ausgeschrieben | Historische Ebene (Baekje 650 AD), GD Z.13699–13731 |
-| 650–660 AD (geplant, nicht geschrieben) | Seeschlacht, Flucht über Japan/Okinawa nach Taiwan-Ostküste, Gründung der Helfenden Hände durch eine "Rückkehrerin", Gründung der Gegengesellschaft durch einen vierten Kaufmann "Kim" | Historische Ebene (Baekje 650 AD) — nur TEIL A (Analyse/Konzept), GD Z.615–645, 1173–1236 |
+| April 655 AD | Die Kaufleute **Bae, Jil und Dol** (Manuskripttext verwendet noch die alten Namen Hyeop, Mok, Baek — siehe Namenshinweis oben) treffen sich zum gemeinsamen Essen im Haus Bae's, Sabi (Handelsschwerpunkt Japan) — **Szene endet hier im Manuskript**, Fortsetzung nicht ausgeschrieben | Historische Ebene (Baekje 650 AD), GD Z.13699–13731 |
+| 650–660 AD (jetzt ausgearbeitetes Konzept, nicht geschrieben) | Ausgangssituation (besonderes Boot mit Seitenschwert) → Eskalation (Seeschlacht, Flucht durch japanische Meerenge, Reparatur in Japan) → Zuspitzung bei Okinawa (Gerücht von Land "eine Woche entfernt") → Wendepunkt (sterbende alte Frau: "dem Stern folgen") → Entscheidung (Aufbruch ins offene Meer) → Was zurückbleibt (Dorfbewohner bei Okinawa getötet, Familien in Korea ausgelöscht durch den vierten Kaufmann **Gaun**, konzeptionell frühere Namensversion "Kim") | Historische Ebene (Baekje 650 AD) — ausgearbeitetes Konzept, Quelle #7 (`recherche_ad650_korea_baekje_aktuell.md`); ursprünglich nur knapp in TEIL A, GD Z.615–645, 1173–1236 |
 | 660 AD | Untergang Baekjes durch Silla/Tang-Allianz, Auslöschung aller Namen der Herrscherfamilie (historischer Rahmen) | Historische Ebene (Baekje 650 AD), B1 Z.13361–13380 |
 | ca. vor 500 Jahren (aus Sicht 2011/2014) | Gründung des Mönchsklosters/Heilzentrums im Tal beim "weinenden Berg" (späteres HQ der Helfenden Hände) | Dobneun-Son/Helfende-Hände-Strang (Zentrale), GD Z.4059–4092 |
 
@@ -38,7 +45,7 @@ die Fundstelle in der jeweiligen Quelldatei zur Nachvollziehbarkeit.
 | 14. April 2013 | Moskau: Jo Kyung-Sik schlägt BUK-Test (Ende Juni) vor, General Salyukov stimmt zu — **im Manuskript falsch einsortiert** (steht nach April 2014, siehe Logikfehler L2) | Russland/BUK-Strang: Moskau-Planung, GD Z.1524–1541 |
 | 14. Okt. 2013 | Pyeongyang, Büro des obersten Führers: Chang Chil Sung präsentiert Projekt Mujigage, Kim Wong-Hong (SSD) genehmigt, Kim Jong-un gibt stillen Segen | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Planung), GD Z.4172–4273 |
 | 4. Nov. 2013 | Bunker Minister Kim Wong-Hong: operative Freigabe/Ressourcen bestätigt | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Planung), GD Z.4274 ff. |
-| (nach 14. Okt. 2013, kein exaktes Datum) | Nordkorea, Falkennest: Gutseoda übernehmen Koordination, historische Jagd auf Dobneun-Son | Nordkorea/Geheimdienst-Strang: Gutseoda/Falkennest, GD Z.4470 |
+| (nach 14. Okt. 2013, kein exaktes Datum) | Nordkorea, Falkennest: Gutseoda übernehmen Koordination, historische Jagd auf Dobneun-Son; Kaserne bewacht durch die Sondereinheit "Haedongcheong"/"Blaue Falken" (Quelle #5); Tod des Planungschefs von Projekt Mujigage durch als Unfall getarnten Sturz | Nordkorea/Geheimdienst-Strang: Gutseoda/Falkennest, GD Z.4470; Standort-/Vorfalldetails Quelle #5 (`zwischenkapitel_schwarz_balddae.md`) |
 | 8. Nov. 2013 | Sinpo-Werft: U-Boot-Umbau beginnt; Büro Operation Mujigage: operative Details | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Vorbereitung), GD Z.4510–4678 |
 | Jan. 2014 (14.–20.) | Brisbane/Glashouse Mountains NP, Australien: paralleler Vorbereitungsstrang | Australien-Strang, GD Z.4679–5262 |
 | Okt. 2013 (Rücksprung) | Moskau: erste Russland-Kontakte, BUK-Vorbereitung (17./28. Okt. 2013) | Russland/BUK-Strang: erste Kontakte, GD Z.703–716 |
@@ -69,7 +76,7 @@ die Fundstelle in der jeweiligen Quelldatei zur Nachvollziehbarkeit.
 | März 2015 | Libyen/Libysche Wüste (nahe tunesischer Grenze): Bibi/Satria schützen Dr. Benjamin Dingaka, Konflikt mit Ajwad Boussafa/Boufassar | Libyen/Westsahara-Strang: Dingaka-Expedition, GD Z.14624–15115 |
 | 21. März 2015 | Le Touquet-Paris Plage | Libyen/Westsahara-Strang: Rückreise, GD Z.15115 |
 | 23. März 2015 | Le Touquet, Seoul-Verbindung | Historische Ebene/Korea-Verbindung: Seoul-Anschluss, GD Z.15204 |
-| Mai 2015 | Westsahara-Expedition (Bodenproben, Grundlage für Buch-2-Handlung) | Libyen/Westsahara-Strang: Expedition/Bodenproben, GD Z.15467 |
+| Mai 2015 | Westsahara-Expedition (Bodenproben, Grundlage für Buch-2-Handlung und späteres UMACO-Konzept, s.u.) | Libyen/Westsahara-Strang: Expedition/Bodenproben, GD Z.15467 |
 | Juni 2015 | London (Buch-1-Ende, direkter Anschluss zu Buch 2) | Buch-2-London-Strang: Anschluss, GD Z.16185–16511 |
 
 ## Buch 2 — "Dobneun Son — Die Helfenden Hände" (ab Juni 2015)
@@ -79,7 +86,7 @@ die Fundstelle in der jeweiligen Quelldatei zur Nachvollziehbarkeit.
 | Juni 2015 | **London (vollständig ausgeschriebene Eröffnungsszene):** Amy Woodcrow bemerkt Drohnenüberwachung von Dr. Dingakas Probenlager; NK-Kommandoteam (4 Kämpfer + Dr. Sun Park) plant Einbruch; Oenjjog Jumeog warnt Ananda Khalebendi/David Whitmore; SAS + SRR + FF-Team vereiteln den Angriff; Cliffhanger "Was war in der Zwischenzeit passiert?" | Buch-2-London-Strang: vereitelter Anschlag, GD Z.16856–17977 |
 | (offen) | "Spurensuche, Korea" (5 Szenen) | Historische Ebene/Korea-Strang — **nur Platzhalter**, GD Z.17974–17994 |
 | (offen) | "Feinde" (3 Szenen, vermutlich Gutseoda/Falkennest-Perspektive) | Nordkorea/Geheimdienst-Strang: Gegner-Perspektive — **nur Platzhalter**, GD Z.17998–18010 |
-| (offen) | "Afrika, UnMaCo" (8 Szenen, Bezug Westsahara/Goldvorkommen, "UnMaCo" ungeklärt) | Libyen/Westsahara-Strang: Fortsetzung — **nur Platzhalter**, GD Z.18012–18038 |
+| (offen) | "Afrika, UMACO" (8 Szenen; "UnMaCo" = **United Mankind Consultancy Organisation**, ein Projekt der Helfenden Hände in der Westsahara, siehe `welt.md` — Bedeutung geklärt, Szenen selbst weiterhin nur Platzhalter) | Libyen/Westsahara-Strang: Fortsetzung — **nur Platzhalter**, GD Z.18012–18038 |
 | (offen) | "Recherche, Geld" (4 Szenen, vermutlich Corinna/McAllan, Bankverbindungen) | Rahmenhandlung 2018: Recherche/Finanzen — **nur Platzhalter**, GD Z.18040–18060 |
 
 ## Rahmenhandlung 2018 (Gegenwart, laut `kap3_korrigiert`)

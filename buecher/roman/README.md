@@ -9,9 +9,11 @@
 - **Perspektive/Erzählform:** siehe Analysenotizen in `recherche/quellenmaterial/gesamtdokument_20261224.md` (TEIL A) — Empfehlung dort: Ich-Erzähler McAllan mit auktorialem Rückblick. **Das ist eine Analyse-Empfehlung, kein feststehender Kanon** — im Manuskripttext selbst (TEIL B/C) wird bisher wechselnd auktorial/personal erzählt, McAllan tritt aber ab der Rahmenhandlung 2018 (`kap3_korrigiert_20260707.md`) bereits als handelnde Figur auf.
 - **Zielumfang:** _(noch offen)_
 
-Bestehendes Quellenmaterial (vorhandene Manuskript-Entwürfe) ist bereits eingepflegt, siehe `recherche/quellen.md` und `recherche/quellenmaterial/`. Figuren-, Welt- und Zeitleisten-Dateien sind daraus vom `roman-rechercheur` befüllt (Stand: erste vollständige Durchsicht aller drei Quelldateien).
+Bestehendes Quellenmaterial (vorhandene Manuskript-Entwürfe) ist bereits eingepflegt, siehe `recherche/quellen.md` und `recherche/quellenmaterial/`. Figuren-, Welt- und Zeitleisten-Dateien sind daraus vom `roman-rechercheur` befüllt (Stand: fortlaufende Durchsicht aller Quelldateien, zuletzt Quellen #1–#9).
 
 **Ordnungsprinzip für dieses Projekt:** Handlungsstränge/Themenzusammenhänge werden durchgehend als Ordnungskriterium verwendet — nicht die im Rohmaterial vergebene Kapitelnummerierung ("Kapitel N"). Die Kapitelnummern im Quellenmaterial sind zwischen den Fassungen uneinheitlich (z.B. wird die Bezeichnung "Kapitel 3" im Rohmaterial für zwei inhaltlich komplett unterschiedliche Szenen verwendet, siehe `recherche/zeitleiste.md`) und eignen sich daher nicht als verlässliches Ordnungskriterium. Das gilt für `figuren.md`, `welt.md`, `zeitleiste.md` und die Kapitelübersicht unten gleichermaßen.
+
+**Namensstand historische Ebene:** Die vier Kaufleute der 650-AD-Handlung heißen laut Nutzer-Entscheidung **Bae** (Reeder), **Jil** (Tonwarenhändler), **Dol** (Mineralienhändler) und **Gaun** (Zwischenhändler, königstreu — Gründer der Gegengesellschaft). Frühere Namensversionen (Hyeop, Mok, Baek, konzeptionell "Kim") sind damit verworfen — Details und Begründung der Zuordnung in `recherche/figuren.md`.
 
 ## Struktur
 
@@ -48,9 +50,9 @@ Originalmanuskript.
 
 | Strang-ID | Handlungsstrang | Inhalt/Zeitraum | Quelle | Status |
 |-----------|------------------|------------------|--------|--------|
-| S01 | Historische Ebene (Baekje 650 AD) | Kaufleute Hyeop, Mok, Baek — Ursprung des Konflikts | gesamtdokument TEIL B / Band 1 | Entwurf (nur Einstiegsszene ausgeschrieben, Fortsetzung nur als Konzept in TEIL A) |
-| S02 | Nordkorea/Geheimdienst-Strang | New York (Moon's JAM, 2011–2013), Projekt Mujigage (Planung, Okt.–Nov. 2013), Falkennest/Gutseoda | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| S03 | Dobneun-Son/Helfende-Hände-Strang (Zentrale) | "Weinender Berg"-HQ Korea, Decknamen-System, Finanzierungsprogramm | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S01 | Historische Ebene (Baekje 650 AD) | Kaufleute **Bae, Jil, Dol** (Reeder/Tonwarenhändler/Mineralienhändler) — Ursprung des Konflikts; vierter Kaufmann **Gaun** (Verfolger, Gründer der Gegengesellschaft) bisher nur Konzeptfigur | gesamtdokument TEIL B / Band 1 (Manuskripttext verwendet technisch noch die alten Namen Hyeop/Mok/Baek, siehe `figuren.md`) | Entwurf (nur Einstiegsszene ausgeschrieben; vollständiger Handlungsbogen inzwischen als Konzept ausgearbeitet, Quelle #7) |
+| S02 | Nordkorea/Geheimdienst-Strang | New York (Moon's JAM, 2011–2013), Projekt Mujigage (Planung, Okt.–Nov. 2013), Falkennest/Gutseoda/Haedongcheong | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S03 | Dobneun-Son/Helfende-Hände-Strang (Zentrale) | "Weinender Berg"-HQ Korea, Decknamen-System, Finanzierungsprogramm, UMACO-Konzept (Westsahara) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
 | S04 | Russland/BUK-Strang | Moskau-Planung, Tonghae-Testgelände | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
 | S05 | Australien-Strang | Brisbane/Glashouse Mountains (Jan. 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
 | S06 | MH370-Operation | Sepang-Vorbereitung bis Bergung/Rückkehr (Feb.–März 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
@@ -61,7 +63,7 @@ Originalmanuskript.
 | S11 | Libyen/Westsahara-Strang | Dr. Benjamin Dingakas Expedition, Bodenproben (März–Mai 2015) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
 | S12 | Rahmenhandlung 2018 (Dubai/Wüste) | Corinna trifft McAllan, Wüsten-Hinterhalt (Okt. 2018) | `kap3_korrigiert_20260707.md` | Korrigierter Entwurf |
 | S13 | Buch-2-London-Strang | Vereitelter Anschlag auf Dr. Dingakas Labor (Juni 2015, vollständig ausgeschrieben) | gesamtdokument TEIL C | Entwurf (Rohmaterial) |
-| S14 | Buch-2-Platzhalter-Stränge | "Spurensuche, Korea" / "Feinde" / "Afrika, UnMaCo" / "Recherche, Geld" | gesamtdokument TEIL C | nur Platzhalter |
+| S14 | Buch-2-Platzhalter-Stränge | "Spurensuche, Korea" / "Feinde" / "Afrika, UMACO" (Bedeutung geklärt, siehe unten) / "Recherche, Geld" | gesamtdokument TEIL C | nur Platzhalter |
 
 **Hinweis zu S02/S12:** Beide Textstellen waren im Rohmaterial zufällig
 mit "Kapitel 3" überschrieben, behandeln aber völlig unterschiedliche
@@ -69,6 +71,15 @@ Themen (nordkoreanische Planung vs. Rahmenhandlung Dubai). Da die
 Kapitelnummerierung des Originalmanuskripts hier nicht als
 Ordnungskriterium verwendet wird, ist das kein Konflikt, sondern zwei
 getrennte Handlungsstränge — siehe Details in `recherche/zeitleiste.md`.
+
+**✅ UMACO/"UnMaCo" geklärt:** Das lange als "ungeklärt" markierte
+Buch-2-Platzhalterkapitel "Afrika, UnMaCo" (S14) steht für **"United
+Mankind Consultancy Organisation"** — laut Konzeptnotizen (Quelle #8)
+ein von den Helfenden Händen selbst initiiertes, UNO-alternatives
+Gremium mit Sitz in der Westsahara, ihr erster öffentlicher Auftritt in
+1.400 Jahren. Details in `recherche/welt.md`. Die acht zugehörigen
+Buch-2-Szenen selbst sind weiterhin nur Platzhalter ohne ausgeschriebenen
+Text.
 
 Status-Werte für neu zu schreibende/lektorierte Kapitel dieses Projekts
 bleiben: geplant → Entwurf → lektoriert → final. Die obige Tabelle
