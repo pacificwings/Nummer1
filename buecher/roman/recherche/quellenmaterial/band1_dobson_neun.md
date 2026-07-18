@@ -13420,33 +13420,33 @@ schiffbar war. Dieses war einer der Faktoren, der die wirtschaftliche
 und kulturelle Stärke des Königreiches begründete.
 
 An einem sonnigen Nachmittag im April des Jahres 655 nach Christus
-erreichte ein Bote des Hauses Hyeop das Gebäude im dritten Bezirk, das
-von dem ehrenwerten Kaufmann Mok bewohnt und bewirtschaftet wurde.
+erreichte ein Bote des Hauses Bae das Gebäude im dritten Bezirk, das
+von dem ehrenwerten Kaufmann Jil bewohnt und bewirtschaftet wurde.
 Nachdem er in den Hof vorgelassen wurde, überbrachte er die Einladung zu
 einem gemeinsamen Essen, das 4 Tage später im Haus seines Herren
-stattfinden sollte. Er informierte den Kaufmann Mok darüber, dass auch
-der Kaufmann Baek zu diesem Essen erscheinen würde, und dass er diesen
-gleich aufsuchen würde, um die Einladung zu überbringen. Herr Mok möchte
-bitte bis morgen, seinen Herrn, den Kaufmann Hyeop, darüber informieren,
+stattfinden sollte. Er informierte den Kaufmann Jil darüber, dass auch
+der Kaufmann Dol zu diesem Essen erscheinen würde, und dass er diesen
+gleich aufsuchen würde, um die Einladung zu überbringen. Herr Jil möchte
+bitte bis morgen, seinen Herrn, den Kaufmann Bae, darüber informieren,
 ob er die Einladung annehmen würde. Der Bote verließ den Hof und machte
-sich auf zum Hause des Kaufmanns Baek, um diesen eine gleichlautende
+sich auf zum Hause des Kaufmanns Dol, um diesen eine gleichlautende
 Einladung zu überbringen.
 
 Die Einladung löste Verwirrung aus, da die drei Kaufmannshäuser nicht in
 direkter Konkurrenz standen und auch verschiedene Schwerpunkte im
 Handelsgeschäft gesetzt wurden, gab es keine direkte Möglichkeit der
 Zusammenarbeit. Aber eben diese Unabhängigkeit voneinander war es auch,
-die die Neugier auslöste, was der Kaufmann Hyeop mit dieser Einladung
+die die Neugier auslöste, was der Kaufmann Bae mit dieser Einladung
 bezwecken würde.
 
 Beide entsandten also einen Boten, der die Einladung annahm. Ein
 sonniger Apriltag neigte sich dem Ende und als die Sonne die Bergspitze
-des Berges Busosan in Sabi berührte, erschienen die Kaufleute Mok und
-Beak im Hofe des Hauses von Kaufmann Hyeop im ersten Bezirk zum
+des Berges Busosan in Sabi berührte, erschienen die Kaufleute Jil und
+Dol im Hofe des Hauses von Kaufmann Bae im ersten Bezirk zum
 verabredeten Abendessen.
 
 „Verehrte Kollegen Kaufleute, ich freue mich, dass Sie meine Einladung
-nachgekommen sind." Begrüßte Sie der Kaufmann Hyeop.
+nachgekommen sind." Begrüßte Sie der Kaufmann Bae.
 
 Die Eingangshalle des Hauses war geräumig und mit verschiedenen
 Schmuckstücken aus Japan dekoriert, und plötzlich wussten die beiden
@@ -13455,7 +13455,7 @@ Handelsschwerpunkt mit Japan, da sie aber in verschiedenen Gebiete und
 Bereichen agierten, waren sie sich nie wirklich begegnet beziehungsweise
 in die Quere gekommen.
 
-Herr Hyeop sah, dass die Augen der beiden sich kurz weiteten, als sie
+Herr Bae sah, dass die Augen der beiden sich kurz weiteten, als sie
 dieses erkannten und lächelte sie an. „Ich sehe, dass Sie verstehen.
 Wenn ich Sie hereinbitten darf?"
 
