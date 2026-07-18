@@ -4,7 +4,9 @@ Alle Angaben sind aus `recherche/quellenmaterial/` belegt (Vorrangregel:
 `kap3_korrigiert_20260707.md` > `gesamtdokument_20261224.md` >
 `band1_dobson_neun.md`). Empfehlungen/Analysen aus TEIL A des
 Gesamtdokuments sind ausdrücklich als **Vorschlag, nicht Kanon**
-markiert.
+markiert. Als Ordnungs-/Referenzprinzip verwendet dieses Dokument
+durchgehend **Handlungsstränge**, nicht die im Rohmaterial vergebenen
+Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
 
 ## Reihenaufbau: zwei Bücher + Rahmen + historische Ebene
 
@@ -26,9 +28,10 @@ HISTORISCHE EBENE — Königreich Baekje, Korea, 650–660 AD
 
 Diese Klammerstruktur (Rahmen–Rückblick–historische Ebene) ist in TEIL A
 als Gestaltungsempfehlung des Ghostwriter-Gutachtens beschrieben, aber
-durch `kap3_korrigiert` (Corinna liest/erlebt die Rückblende real) und die
-tatsächlichen Manuskript-Kapitel (Buch 1, Kapitel 2: Dobneun-Son-Zentrale
-etc.) inzwischen weitgehend im Manuskript umgesetzt.
+durch `kap3_korrigiert` (Corinna liest/erlebt die Rückblende real) und
+die tatsächlichen Manuskript-Abschnitte (Buch 1, Dobneun-Son/Helfende-
+Hände-Strang/Zentrale etc.) inzwischen weitgehend im Manuskript
+umgesetzt.
 
 ## Zeitebenen im Überblick
 
@@ -42,10 +45,10 @@ etc.) inzwischen weitgehend im Manuskript umgesetzt.
    Brisbane/Australien, Kuala Lumpur/Südchinesisches Meer, Assen/Den
    Haag/Groningen, Hamburg, Donbass/Amsterdam, Malaysia, Libyen/Westsahara,
    London).
-3. **Juni 2015 ff.** — Buch 2 (London-Anschlag, danach geplante Kapitel
-   zu Korea, "Feinde"/Gutseoda, Afrika/UnMaCo, Recherche/Geld — Stand
-   Manuskript: nur die London-Szene ist vollständig ausgeschrieben, Rest
-   sind Platzhalter, siehe Zeitleiste).
+3. **Juni 2015 ff.** — Buch 2 (London-Anschlag, danach geplante
+   Abschnitte zu Korea, "Feinde"/Gutseoda, Afrika/UnMaCo, Recherche/Geld
+   — Stand Manuskript: nur die London-Szene ist vollständig
+   ausgeschrieben, Rest sind Platzhalter, siehe Zeitleiste).
 4. **2018** — Rahmenhandlung Corinna/McAllan (Hamburg, Dubai, Wüste).
 
 ## Wichtige Schauplätze
@@ -60,7 +63,8 @@ etc.) inzwischen weitgehend im Manuskript umgesetzt.
   Haupt-HQ der Helfenden Hände/Dobneun-Son, in einer Grotte hinter einem
   Wasserfall, historisch aus einem Mönchskloster/Heilzentrum
   hervorgegangen ("Chiyu Haneun Gohyang"/"Chi-yu-i jeol"). **Kanon** laut
-  Buch-1-Kapitel 2 — nicht mehr offene Frage (siehe Zeitleiste/Konsistenz).
+  dem Dobneun-Son/Helfende-Hände-Strang in Buch 1 — nicht mehr offene
+  Frage (siehe Zeitleiste/Konsistenz).
 - **Taiwan** — zweites HQ der Helfenden Hände (Finanzen/Wirtschaft);
   Ostküste als vermuteter Ort der 650-AD-Schätze (nur als
   Analyse-Hypothese in TEIL A, nicht im Manuskripttext bestätigt).
@@ -117,9 +121,13 @@ etc.) inzwischen weitgehend im Manuskript umgesetzt.
   Hintergrundrecherche/Argumentation des Ghostwriter-Gutachtens, **nicht
   zwingend als Dialog-/Erzähltext im Manuskript übernommen**, sondern als
   Steilvorlage für die Motivforschung "Warum Taiwan wirklich?".
-- **Sun Tzu, "Die Kunst des Krieges":** Jedes reale Buch-1-Kapitel (2–14)
-  im Gesamtdokument beginnt mit einem Sun-Tzu-Zitat als Motto (siehe
-  Zeitleiste/Kapitelübersicht).
+- **Sun Tzu, "Die Kunst des Krieges":** Im Rohmaterial ist praktisch
+  jeder Buch-1-Abschnitt (im Quelltext ursprünglich nummeriert als
+  "Kapitel 2" bis "Kapitel 14") mit einem Sun-Tzu-Zitat als Motto
+  versehen. Diese Nummerierung wird für dieses Projekt nicht als
+  Ordnungsprinzip übernommen (siehe `zeitleiste.md`, Abschnitt
+  "Handlungsstränge in Buch 1" für die stattdessen verwendete
+  themenbasierte Gliederung).
 
 ## Organisationsregeln der Welt (Kanon)
 
@@ -139,12 +147,13 @@ etc.) inzwischen weitgehend im Manuskript umgesetzt.
   Feindschaft mit den Helfenden Händen. Verhältnis zu den 2018 in Dubai
   auftretenden **"Nachtfalken"** ungeklärt (siehe Offene Fragen in
   `figuren.md`).
-- Die Finanzierung der Helfenden Hände wird in Kapitel 2 explizit
-  benannt: eigenes "Finanzierungsprogramm", Kontakte/Kandidaten bei
-  Zentralbanken (genannt: Deutsche Bundesbank, alternativ Singapur) —
-  passend zur TEIL-A-Hypothese, dass Taiwan/die 650-AD-Schätze die
-  wirtschaftliche Basis der Organisation bilden (dort aber ausdrücklich
-  als offene/unbestätigte Idee markiert).
+- Die Finanzierung der Helfenden Hände wird im Dobneun-Son/Helfende-
+  Hände-Strang (Zentrale) explizit benannt: eigenes
+  "Finanzierungsprogramm", Kontakte/Kandidaten bei Zentralbanken
+  (genannt: Deutsche Bundesbank, alternativ Singapur) — passend zur
+  TEIL-A-Hypothese, dass Taiwan/die 650-AD-Schätze die wirtschaftliche
+  Basis der Organisation bilden (dort aber ausdrücklich als
+  offene/unbestätigte Idee markiert).
 
 ## Offene Strukturfragen aus TEIL A (Analyse, nicht Kanon)
 
@@ -162,5 +171,5 @@ sie als Kanon behandelt werden:
   "bis zur Redaktion".
 - Ist Taiwan wirklich der wirtschaftliche Unterbau der Helfenden Hände
   über 1.400 Jahre (starke TEIL-A-Hypothese) — im Manuskripttext bisher
-  nicht bestätigt, aber die Existenz eines Taiwan-HQ (Kapitel 2, Buch 1)
-  stützt die Idee.
+  nicht bestätigt, aber die Existenz eines Taiwan-HQ
+  (Dobneun-Son/Helfende-Hände-Strang, Buch 1) stützt die Idee.
