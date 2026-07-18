@@ -10,14 +10,18 @@ Roman-Projekt "Dobneun Son" mit spezialisierten Claude-Code-Agenten für Recherc
 
 ## Agenten
 
-Vier Subagenten (definiert in `.claude/agents/`), die nacheinander im Workflow **Recherche → Schreiben → Schriftsteller (Stil) → Lektorat** eingesetzt werden:
+Neun Subagenten (definiert in `.claude/agents/`), aufgeteilt in eine deutsche und eine englische Pipeline — siehe `buecher/roman/README.md` für den vollständigen Workflow:
 
-| Recherche           | Schreiben         | Schriftsteller (Stil)  | Lektorat        |
-|----------------------|-------------------|--------------------------|------------------|
-| `roman-rechercheur`  | `roman-schreiber` | `roman-schriftsteller`   | `roman-lektor`   |
+| Phase | Deutsch | Englisch |
+|-------|---------|----------|
+| Recherche/Konsistenz | `roman-rechercheur` | _(gemeinsam genutzt, keine Übersetzung nötig)_ |
+| Verfassen / Übersetzen | `roman-schriftsteller` (Inhalt + Stil) | `roman-uebersetzer` |
+| Logik-Lektorat | `roman-lektor` | `roman-lektor-eng` |
+| Grammatik/Orthografie | `roman-korrektor` | `roman-korrektor-eng` |
+| Stil-/Textfluss-Rückprüfung | `roman-schriftsteller` (2. Durchlauf) | `roman-schriftsteller-eng` |
 
-Der Schriftsteller-Agent bringt einen Text in den für das Projekt verbindlichen Schreibstil (definiert im Skill `roman-mcallan`) — er ändert keine Fakten/Handlung, nur Sprache und Form.
+Lektorat und Korrektur sind bewusst getrennt: `roman-lektor`/`roman-lektor-eng` prüfen nur Handlungslogik und listen Rückfragen (ändern den Text nicht selbst); `roman-korrektor`/`roman-korrektor-eng` korrigieren Rechtschreibung automatisch und fragen nur bei zweifelhaften Grammatik-Korrekturen nach. Die Schriftsteller-Agenten nutzen dafür die projekteigenen Skills `roman-schreibstil` (Deutsch) bzw. `roman-schreibstil-eng` (Englisch) — sie ändern keine Fakten/Handlung, nur Sprache und Form.
 
 Aufruf z.B. in Claude Code: *"Nutze den Agenten roman-rechercheur, um X zu recherchieren"* oder direkt über das Agent-Tool mit dem jeweiligen `subagent_type`.
 
-`buecher/roman/recherche/` enthält Figuren/Welt/Zeitleiste sowie das importierte Quellenmaterial; `buecher/roman/manuskript/` die eigentlichen Kapiteltexte. Details siehe die README im Projektordner.
+`buecher/roman/recherche/` enthält Figuren/Welt/Zeitleiste sowie das importierte Quellenmaterial; `buecher/roman/manuskript/` die deutschen Kapiteltexte, `buecher/roman/manuskript/en/` die englischen Übersetzungen. Details siehe die README im Projektordner.

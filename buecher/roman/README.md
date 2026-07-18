@@ -30,11 +30,27 @@ Wichtige Dateien in `recherche/` (werden vom `roman-rechercheur` gepflegt):
 - `welt.md` — Setting, Zeitebenen, wichtige Orte, Organisationsregeln
 - `zeitleiste.md` — chronologischer Ablauf über beide Bücher, gegliedert nach Handlungssträngen, inkl. bekannter Logikfehler/Datumsprobleme aus der Ghostwriter-Analyse
 
+`manuskript/` enthält die deutschen Kapiteltexte; `manuskript/en/` die englischen Übersetzungen (gleicher Datei-Slug).
+
+## Skills
+
+- `roman-schreibstil` (projekteigen, `.claude/skills/roman-schreibstil/`) — aus dem Quellenmaterial abgeleiteter, verbindlicher deutscher Schreibstil. Genutzt von `roman-schriftsteller`.
+- `roman-schreibstil-eng` (projekteigen, `.claude/skills/roman-schreibstil-eng/`) — englischsprachiges Gegenstück, kalibriert auf natürliches Englisch statt wörtlicher Übertragung. Genutzt von `roman-schriftsteller-eng`.
+
 ## Workflow
 
+**Deutsche Pipeline (neuer Text):**
 1. **Recherche/Konsistenz** — `roman-rechercheur` pflegt Figuren/Welt/Zeitleiste und prüft neue Kapitel auf Widersprüche.
-2. **Schreiben** — `roman-schreiber` verfasst Kapitel/Szenen in `manuskript/` passend zum bestehenden Kanon.
-3. **Lektorat** — `roman-lektor` prüft das fertige Kapitel auf Stil, Spannungsbogen und Konsistenz.
+2. **Verfassen** — `roman-schriftsteller` schreibt Kapitel/Szenen in `manuskript/` inhaltlich und stilistisch (Skill `roman-schreibstil`) in einem Schritt.
+3. **Logik-Lektorat** — `roman-lektor` prüft nur Handlungslogik/Konsistenz, ändert den Text nicht selbst, sondern listet Rückfragen.
+4. **Korrektur** — `roman-korrektor` behebt Rechtschreibung automatisch, fragt bei zweifelhaften Grammatik-Korrekturen nach.
+5. **Stil-Rückprüfung** — `roman-schriftsteller` prüft den korrigierten Text abschließend gegen den Skill (Korrekturen dürfen den Stil nicht beschädigt haben).
+
+**Englische Pipeline (Übersetzung, nach Abschluss der deutschen Pipeline):**
+1. **Übersetzung** — `roman-uebersetzer` überträgt den fertigen deutschen Text nach `manuskript/en/`.
+2. **Logik-Lektorat (Eng)** — `roman-lektor-eng` prüft Handlungslogik/Konsistenz, listet Rückfragen, ändert nichts selbst.
+3. **Korrektur (Eng)** — `roman-korrektor-eng` behebt Rechtschreibung automatisch, fragt bei zweifelhafter Grammatik nach.
+4. **Textfluss-Prüfung (Eng)** — `roman-schriftsteller-eng` prüft gegen den Skill `roman-schreibstil-eng` auf natürlichen, nicht-übersetzt wirkenden Textfluss.
 
 ## Kapitelübersicht (nach Handlungssträngen)
 
