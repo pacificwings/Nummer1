@@ -7,6 +7,11 @@ Steckbriefe, so wie sie aus dem Quellenmaterial belegt sind (siehe
 offene Punkte stehen unter "Offene Fragen" am Ende der jeweiligen Figur
 oder im Abschnitt "Offene Fragen / Widersprüche" ganz unten.
 
+Als Ordnungs-/Referenzprinzip verwendet dieses Dokument durchgehend
+**Handlungsstränge** (z.B. "Nordkorea/Geheimdienst-Strang",
+"Rahmenhandlung 2018"), nicht die im Rohmaterial vergebenen
+Kapitelnummern — siehe `recherche/zeitleiste.md` für die Begründung.
+
 ---
 
 ## Rahmenhandlung, Gegenwart (2018)
@@ -121,12 +126,12 @@ oder im Abschnitt "Offene Fragen / Widersprüche" ganz unten.
   wird eine Kreditkarte der "MHHE Bank" auf den Namen John Newport
   gefunden — zunächst unaufgeklärtes Kuriosum, später zentraler
   Ermittlungsfaden für Corinna/Joost.
-- **Konsistenzhinweis:** Kapitel 2 des Manuskripts (Dobneun-Son-Zentrale)
-  bestätigt explizit, dass die "Helfenden Hände" dem BND den Tipp zur
-  MHHE-Bank gegeben hatten und dass Richters Enttarnung/Tod eine
-  Vergeltungsaktion der "Gutseoda" war — das ist die Auflösung des in
-  TEIL A als offen markierten "BND-Mann-New-York"-Rätsels (vormals
-  Logikfehler/Platzhalter P7/L11).
+- **Konsistenzhinweis:** Im Dobneun-Son/Helfende-Hände-Strang (Zentrale)
+  des Manuskripts bestätigt die Führungsrunde explizit, dass die
+  "Helfenden Hände" dem BND den Tipp zur MHHE-Bank gegeben hatten und
+  dass Richters Enttarnung/Tod eine Vergeltungsaktion der "Gutseoda"
+  war — das ist die Auflösung des in TEIL A als offen markierten
+  "BND-Mann-New-York"-Rätsels (vormals Logikfehler/Platzhalter P7/L11).
 
 ### Xi Cheng Fu
 
@@ -399,9 +404,9 @@ oder im Abschnitt "Offene Fragen / Widersprüche" ganz unten.
 
 ### Dobneun-Son / "Helfende Hände"
 
-- **Struktur (Kapitel 2, Buch 1 — belegter Kanon):** Haupt-HQ im
-  sogenannten "weinenden Berg" (Grotte hinter einem Wasserfall im
-  versteckten Tal "Chi-yu Haneun Gohyang" nahe des
+- **Struktur (Dobneun-Son/Helfende-Hände-Strang, Buch 1 — belegter
+  Kanon):** Haupt-HQ im sogenannten "weinenden Berg" (Grotte hinter
+  einem Wasserfall im versteckten Tal "Chi-yu Haneun Gohyang" nahe des
   Juwangsan-Nationalparks, Korea — historisch aus einem
   Mönchskloster/Heilzentrum hervorgegangen, das vor ca. 500 Jahren vom
   Fürsten geschenkt wurde). Zweites HQ auf Taiwan (Finanzen/Wirtschaft).
@@ -474,12 +479,13 @@ oder im Abschnitt "Offene Fragen / Widersprüche" ganz unten.
    Organisationen — Gleichsetzung plausibel, aber nicht belegt.
 7. **"Chefin" (2018) vs. "Mutter"/"Eomeoni" (Buch 1, Korea):** Plausible,
    aber unbestätigte Identität derselben Führungsfigur.
-8. **Kapitel-3-Konflikt:** Das im Gesamtdokument selbst als "Kapitel 3"
-   überschriebene Textstück (Pyeongyang/Projekt Mujigage, Zeile 4169 ff.)
-   hat **inhaltlich nichts gemeinsam** mit dem als "Kapitel 3: Wie alles
-   begann" überschriebenen Text in `kap3_korrigiert_20260707.md`
-   (Corinna/McAllan, Dubai/Wüste). Das ist kein reiner Korrekturunterschied
-   (Tippfehler, Umformulierung), sondern zwei komplett verschiedene
-   Szenenkomplexe unter derselben Kapitelnummer. Siehe ausführlich in
-   `zeitleiste.md` und `welt.md` — **das sollte projektseitig geklärt
-   werden**, bevor Kapitel 3 final geschrieben/lektoriert wird.
+
+**Hinweis (kein offener Punkt mehr):** Das Rohmaterial überschreibt zwei
+inhaltlich unterschiedliche Szenen zufällig beide mit "Kapitel 3"
+(Nordkorea/Geheimdienst-Strang: Projekt Mujigage im Gesamtdokument vs.
+Rahmenhandlung 2018/Dubai-Wüste in `kap3_korrigiert`). Da dieses Projekt
+Handlungsstränge statt Kapitelnummern als Ordnungsprinzip verwendet
+(siehe `recherche/zeitleiste.md`), ist das kein Widerspruch, sondern
+schlicht zwei getrennte thematische Abschnitte, die im Rohmaterial
+zufällig gleich nummeriert waren. Beide Inhalte bleiben wie oben
+beschrieben bestehen.

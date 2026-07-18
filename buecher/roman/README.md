@@ -11,6 +11,8 @@
 
 Bestehendes Quellenmaterial (vorhandene Manuskript-Entwürfe) ist bereits eingepflegt, siehe `recherche/quellen.md` und `recherche/quellenmaterial/`. Figuren-, Welt- und Zeitleisten-Dateien sind daraus vom `roman-rechercheur` befüllt (Stand: erste vollständige Durchsicht aller drei Quelldateien).
 
+**Ordnungsprinzip für dieses Projekt:** Handlungsstränge/Themenzusammenhänge werden durchgehend als Ordnungskriterium verwendet — nicht die im Rohmaterial vergebene Kapitelnummerierung ("Kapitel N"). Die Kapitelnummern im Quellenmaterial sind zwischen den Fassungen uneinheitlich (z.B. wird die Bezeichnung "Kapitel 3" im Rohmaterial für zwei inhaltlich komplett unterschiedliche Szenen verwendet, siehe `recherche/zeitleiste.md`) und eignen sich daher nicht als verlässliches Ordnungskriterium. Das gilt für `figuren.md`, `welt.md`, `zeitleiste.md` und die Kapitelübersicht unten gleichermaßen.
+
 ## Struktur
 
 ```
@@ -24,7 +26,7 @@ Wichtige Dateien in `recherche/` (werden vom `roman-rechercheur` gepflegt):
 - `quellen.md` — zentrale, manuell gepflegte Quellensammlung (Grundlagen)
 - `figuren.md` — Steckbriefe der Hauptfiguren (Rahmenhandlung 2018, Nordkorea-Strang, NL/AIVD-Strang, Malaysia Special Branch, Buch-2-London-Strang, historische Ebene 650 AD, Organisationen)
 - `welt.md` — Setting, Zeitebenen, wichtige Orte, Organisationsregeln
-- `zeitleiste.md` — chronologischer Ablauf über beide Bücher, inkl. bekannter Logikfehler/Datumsprobleme aus der Ghostwriter-Analyse
+- `zeitleiste.md` — chronologischer Ablauf über beide Bücher, gegliedert nach Handlungssträngen, inkl. bekannter Logikfehler/Datumsprobleme aus der Ghostwriter-Analyse
 
 ## Workflow
 
@@ -32,39 +34,41 @@ Wichtige Dateien in `recherche/` (werden vom `roman-rechercheur` gepflegt):
 2. **Schreiben** — `roman-schreiber` verfasst Kapitel/Szenen in `manuskript/` passend zum bestehenden Kanon.
 3. **Lektorat** — `roman-lektor` prüft das fertige Kapitel auf Stil, Spannungsbogen und Konsistenz.
 
-## Kapitelübersicht
+## Kapitelübersicht (nach Handlungssträngen)
 
-Buch 1 ("Das Geheimnis der »Dobson Neun«") ist im Quellenmaterial
-(`gesamtdokument_20261224.md`, TEIL B) tatsächlich in Kapitel mit
-Sun-Tzu-Zitat als Motto gegliedert. Diese Tabelle spiegelt den
-**vorgefundenen Manuskript-Stand** (Rohmaterial), nicht bereits final
-lektorierte/neu geschriebene Kapitel dieses Projekts — Status ist daher
-grundsätzlich "vorhandener Entwurf" statt "geplant". Details und
-Fundstellen: siehe `recherche/zeitleiste.md`.
+Diese Übersicht spiegelt den **vorgefundenen Manuskript-Stand**
+(Rohmaterial) wieder, gruppiert nach thematischem Handlungsstrang statt
+nach der (uneinheitlichen) Kapitelnummerierung im Quellenmaterial — siehe
+`recherche/zeitleiste.md` für die vollständige, zeilengenaue Zuordnung.
+Status ist grundsätzlich "vorhandener Entwurf" statt "geplant", solange
+noch kein neu geschriebenes/lektoriertes Kapitel dieses Projekts
+vorliegt. Die Strang-ID (S01, S02, …) ist eine neutrale, projektinterne
+Kennung und kollidiert bewusst nicht mit Kapitelnummern aus dem
+Originalmanuskript.
 
-| Nr. | Titel/Inhalt | Quelle | Status |
-|-----|-------|--------|--------|
-| 01  | New York 2011 – April 2013 ("Teil 1: Eruptionen", kein Kapitel-Header) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 02  | Dobneun-Son-Zentrale ("weinender Berg"), New-York-Nachbereitung | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 03  | Projekt Mujigage: Pyeongyang/Falkennest/Sinpo-Werft (Okt.–Nov. 2013) — **⚠️ Konflikt mit `kap3_korrigiert`, siehe unten** | gesamtdokument TEIL B | Entwurf (Rohmaterial), klärungsbedürftig |
-| 04  | Brisbane/Glashouse Mountains, Australien (Jan. 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 05  | Sepang Race Circuit, MH370-Vorbereitung (Feb.–März 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 06  | Flughafen Kuala Lumpur, Boarding MH370 (März 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 07  | Cargo-City/weitere MH370-Szenen | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 08  | Raketen-/Artillerie-Hauptverwaltung, Tonghae, Sinpo-Nachbereitung | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 09  | Assen, Niederlande (Anique-Strang, März 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 10  | Isala Klinik Zwolle, weitere NL-Szenen (April 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 11  | Groningen, MH17-Vorbereitung (Juli 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 12  | Ottensen, Hamburg — Rahmenkapitel Corinna Brandenburg (16. Jan. 2018) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 13  | Malaysia, Royal Belum National Park (Feb. 2015) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| 14  | Libyen/Afrika-Strang (März 2015) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| —   | Le Touquet, Westsahara, London Juni 2015 (Buch-1-Ende, unnummeriert) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
-| —   | "Kapitel 3: Wie alles begann" — Corinna/McAllan, Dubai/Wüste (Okt. 2018) | `kap3_korrigiert_20260707.md` | Korrigierter Entwurf, **Nummerierungskonflikt mit Kapitel 03 oben — Klärung nötig** |
-| B2-1 | Buch 2, Kapitel 1 "Spurensuche, Korea" (5 Szenen) | gesamtdokument TEIL C | nur Platzhalter |
-| B2-2 | Buch 2, Kapitel 2 "Feinde" (3 Szenen) | gesamtdokument TEIL C | nur Platzhalter |
-| B2-3 | Buch 2, Kapitel 3 "Afrika, UnMaCo" (8 Szenen) | gesamtdokument TEIL C | nur Platzhalter |
-| B2-4 | Buch 2, Kapitel 4 "Recherche, Geld" (4 Szenen) | gesamtdokument TEIL C | nur Platzhalter |
-| B2-0 | Buch 2, London Juni 2015 (vollständig ausgearbeitete Eröffnungsszene) | gesamtdokument TEIL C | Entwurf (Rohmaterial) |
+| Strang-ID | Handlungsstrang | Inhalt/Zeitraum | Quelle | Status |
+|-----------|------------------|------------------|--------|--------|
+| S01 | Historische Ebene (Baekje 650 AD) | Kaufleute Hyeop, Mok, Baek — Ursprung des Konflikts | gesamtdokument TEIL B / Band 1 | Entwurf (nur Einstiegsszene ausgeschrieben, Fortsetzung nur als Konzept in TEIL A) |
+| S02 | Nordkorea/Geheimdienst-Strang | New York (Moon's JAM, 2011–2013), Projekt Mujigage (Planung, Okt.–Nov. 2013), Falkennest/Gutseoda | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S03 | Dobneun-Son/Helfende-Hände-Strang (Zentrale) | "Weinender Berg"-HQ Korea, Decknamen-System, Finanzierungsprogramm | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S04 | Russland/BUK-Strang | Moskau-Planung, Tonghae-Testgelände | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S05 | Australien-Strang | Brisbane/Glashouse Mountains (Jan. 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S06 | MH370-Operation | Sepang-Vorbereitung bis Bergung/Rückkehr (Feb.–März 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S07 | Niederlande/AIVD-Strang | Assen/Den Haag/Zwolle/Groningen — Anique Smits, Thomas Ganghofer, Joost van der Dijkstraat | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S08 | MH17-Operation | Amsterdam/Den Haag-Vorbereitung, Donbass-Abschuss (Juli 2014) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S09 | Rahmenhandlung 2018 (Hamburg) | Ottensen — Corinna Brandenburg erhält Joosts Akten (16. Jan. 2018) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S10 | Malaysia/Special-Branch-Strang | Royal Belum National Park (Feb. 2015) — Bibi Kaur, Satria Chow | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S11 | Libyen/Westsahara-Strang | Dr. Benjamin Dingakas Expedition, Bodenproben (März–Mai 2015) | gesamtdokument TEIL B | Entwurf (Rohmaterial) |
+| S12 | Rahmenhandlung 2018 (Dubai/Wüste) | Corinna trifft McAllan, Wüsten-Hinterhalt (Okt. 2018) | `kap3_korrigiert_20260707.md` | Korrigierter Entwurf |
+| S13 | Buch-2-London-Strang | Vereitelter Anschlag auf Dr. Dingakas Labor (Juni 2015, vollständig ausgeschrieben) | gesamtdokument TEIL C | Entwurf (Rohmaterial) |
+| S14 | Buch-2-Platzhalter-Stränge | "Spurensuche, Korea" / "Feinde" / "Afrika, UnMaCo" / "Recherche, Geld" | gesamtdokument TEIL C | nur Platzhalter |
+
+**Hinweis zu S02/S12:** Beide Textstellen waren im Rohmaterial zufällig
+mit "Kapitel 3" überschrieben, behandeln aber völlig unterschiedliche
+Themen (nordkoreanische Planung vs. Rahmenhandlung Dubai). Da die
+Kapitelnummerierung des Originalmanuskripts hier nicht als
+Ordnungskriterium verwendet wird, ist das kein Konflikt, sondern zwei
+getrennte Handlungsstränge — siehe Details in `recherche/zeitleiste.md`.
 
 Status-Werte für neu zu schreibende/lektorierte Kapitel dieses Projekts
 bleiben: geplant → Entwurf → lektoriert → final. Die obige Tabelle

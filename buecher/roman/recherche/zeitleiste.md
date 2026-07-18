@@ -1,132 +1,136 @@
 # Zeitleiste der Handlung
 
 Chronologische Liste (nicht Erzählreihenfolge im Manuskript — die
-tatsächliche Szenenfolge im Manuskript weicht davon ab, siehe TEIL A,
-"Logikfehler"-Liste, und die Kapitelübersicht unten). Quellenkürzel:
+tatsächliche Szenenfolge im Manuskript weicht davon ab, siehe
+"Bekannte Logikfehler/Datumsprobleme" unten). Quellenkürzel:
 **GD** = `gesamtdokument_20261224.md` (TEIL B/C, priorisierte Fassung),
 **B1** = `band1_dobson_neun.md` (älterer Stand, nur wo abweichend
-relevant), **K3** = `kap3_korrigiert_20260707.md` (Vorrang bei
-Kapitel-3-Widerspruch, siehe unten).
+relevant), **K3** = `kap3_korrigiert_20260707.md`.
+
+**Ordnungsprinzip:** Als Ordnungs-/Referenzkriterium für dieses Projekt
+wird durchgehend der **thematische Handlungsstrang** verwendet, nicht die
+im Rohmaterial vergebene Kapitelnummer ("Kapitel N"). Die
+Kapitelnummerierung im Quellenmaterial ist zwischen den Fassungen
+uneinheitlich (siehe Abschnitt "Handlungsstränge in Buch 1" unten) und
+wird hier bewusst nicht als Ordnungskriterium übernommen. Die Spalte
+"Handlungsstrang / Quelle" nennt stattdessen den thematischen Strang plus
+die Fundstelle in der jeweiligen Quelldatei zur Nachvollziehbarkeit.
 
 ## Historische Ebene
 
-| Zeitpunkt | Ereignis | Quelle |
+| Zeitpunkt | Ereignis | Handlungsstrang / Quelle |
 |---|---|---|
-| 600–655 AD | Königreich Baekje (Korea) auf dem Höhepunkt der Macht; König Uija folgt 641 auf König Mu | GD Z.13667 ff. |
-| April 655 AD | Die Kaufleute Hyeop, Mok und Baek treffen sich zum gemeinsamen Essen im Haus Hyeop, Sabi (Handelsschwerpunkt Japan) — **Szene endet hier im Manuskript**, Fortsetzung nicht ausgeschrieben | GD Z.13699–13731 |
-| 650–660 AD (geplant, nicht geschrieben) | Seeschlacht, Flucht über Japan/Okinawa nach Taiwan-Ostküste, Gründung der Helfenden Hände durch eine "Rückkehrerin", Gründung der Gegengesellschaft durch einen vierten Kaufmann "Kim" | nur TEIL A (Analyse/Konzept), GD Z.615–645, 1173–1236 |
-| 660 AD | Untergang Baekjes durch Silla/Tang-Allianz, Auslöschung aller Namen der Herrscherfamilie (historischer Rahmen) | B1 Z.13361–13380 |
-| ca. vor 500 Jahren (aus Sicht 2011/2014) | Gründung des Mönchsklosters/Heilzentrums im Tal beim "weinenden Berg" (späteres HQ der Helfenden Hände) | GD Z.4059–4092 |
+| 600–655 AD | Königreich Baekje (Korea) auf dem Höhepunkt der Macht; König Uija folgt 641 auf König Mu | Historische Ebene (Baekje 650 AD), GD Z.13667 ff. |
+| April 655 AD | Die Kaufleute Hyeop, Mok und Baek treffen sich zum gemeinsamen Essen im Haus Hyeop, Sabi (Handelsschwerpunkt Japan) — **Szene endet hier im Manuskript**, Fortsetzung nicht ausgeschrieben | Historische Ebene (Baekje 650 AD), GD Z.13699–13731 |
+| 650–660 AD (geplant, nicht geschrieben) | Seeschlacht, Flucht über Japan/Okinawa nach Taiwan-Ostküste, Gründung der Helfenden Hände durch eine "Rückkehrerin", Gründung der Gegengesellschaft durch einen vierten Kaufmann "Kim" | Historische Ebene (Baekje 650 AD) — nur TEIL A (Analyse/Konzept), GD Z.615–645, 1173–1236 |
+| 660 AD | Untergang Baekjes durch Silla/Tang-Allianz, Auslöschung aller Namen der Herrscherfamilie (historischer Rahmen) | Historische Ebene (Baekje 650 AD), B1 Z.13361–13380 |
+| ca. vor 500 Jahren (aus Sicht 2011/2014) | Gründung des Mönchsklosters/Heilzentrums im Tal beim "weinenden Berg" (späteres HQ der Helfenden Hände) | Dobneun-Son/Helfende-Hände-Strang (Zentrale), GD Z.4059–4092 |
 
 ## Buch 1 — "Das Geheimnis der »Dobson Neun«" (2011–2015)
 
-| Zeitpunkt | Ereignis | Kapitel/Quelle |
+| Zeitpunkt | Ereignis | Handlungsstrang / Quelle |
 |---|---|---|
-| Mai 2011 | New York: Jessica Moon (Park Saebyeong) betreibt "Moon's JAM" als NK-Horchposten; BND-Agent Klaus Richter ("Toni Seiler") wird enttarnt | Kapitel 1 (unbetitelt/"Teil 1: Eruptionen"), GD Z.3764 |
-| 22. Mai 2011 | Klaus Richter stirbt bei inszeniertem Unfall in New York (Fahrerin: getarnte NK-Agentin Kim In-Guk) | Kapitel 1, GD Z.3806 |
-| 5. Aug. 2011 | BND schließt die Akte zum New-York-Vorfall | Kapitel 1, GD Z.3840 |
-| (undatiert, nach 2011) | Dobneun-Son-Zentrale ("weinender Berg"): Führungsrunde bespricht New-York-Vorfall, bestätigt eigenen Tipp an den BND zur MHHE-Bank, beschließt Finanzierungsprogramm | Kapitel 2, GD Z.4051–4167 |
-| 10.–11. April 2013 | New York, Diner: Xi Cheng Fu und Mohammed bin Osman besprechen verdeckte chinesische Investitionsprojekte ("Sì Huán", "Makanan Naga") | Kapitel 1/2, GD Z.3850–4050 |
-| 14. April 2013 | Moskau: Jo Kyung-Sik schlägt BUK-Test (Ende Juni) vor, General Salyukov stimmt zu — **im Manuskript falsch einsortiert** (steht nach April 2014, siehe Logikfehler L2) | GD Z.1524–1541 |
-| 14. Okt. 2013 | Pyeongyang, Büro des obersten Führers: Chang Chil Sung präsentiert Projekt Mujigage, Kim Wong-Hong (SSD) genehmigt, Kim Jong-un gibt stillen Segen | Kapitel 3, GD Z.4172–4273 |
-| 4. Nov. 2013 | Bunker Minister Kim Wong-Hong: operative Freigabe/Ressourcen bestätigt | Kapitel 3, GD Z.4274 ff. |
-| (nach 14. Okt. 2013, kein exaktes Datum) | Nordkorea, Falkennest: Gutseoda übernehmen Koordination, historische Jagd auf Dobneun-Son | Kapitel 3, GD Z.4470 |
-| 8. Nov. 2013 | Sinpo-Werft: U-Boot-Umbau beginnt; Büro Operation Mujigage: operative Details | Kapitel 3, GD Z.4510–4678 |
-| Jan. 2014 (14.–20.) | Brisbane/Glashouse Mountains NP, Australien: paralleler Vorbereitungsstrang | Kapitel 4, GD Z.4679–5262 |
-| Okt. 2013 (Rücksprung) | Moskau: erste Russland-Kontakte, BUK-Vorbereitung (17./28. Okt. 2013) | eingebettet nach Kap. 4, GD Z.703–716 |
-| Feb. 2014 (Tonghae-Testgelände) | Russische Offiziere Mischa/Grischa beobachten BUK-M1-E2-Test — **im Manuskript falsch einsortiert**, gehört vor die März-Szenen (Logikfehler L8) | GD Z.7487 |
-| 22. Feb. 2014 | Sinpo-Werft: U-Boot-Einstiegsluke wird umgebaut (Vorbereitung Bergung) — **ebenfalls falsch einsortiert**, steht im Manuskript nach den März-Bergungsszenen (Logikfehler L3) | GD Z.6776 |
-| 11. Feb. 2014 | Sepang Race Circuit: Vorbereitung Kuala Lumpur | Kapitel 5, GD Z.5263 |
-| 5. März 2014 | London: Stan Lee und Umfeld | Kapitel 5, GD Z.5553 |
-| 6.–7. März 2014 | Kuala Lumpur: Flughafen-, Cargo-City- und Vorfeldszenen, Boarding MH370 | Kapitel 6/7, GD Z.5669–6360 |
-| 7. März 2014 | Moskau: Parallelszene zur MH370-Nacht — **falsch einsortiert im Manuskript** (Logikfehler L9) | GD Z.7397 |
-| 8. März 2014, 00:45–02:00 Uhr | Laderaum/Cockpit MH370: Übernahme, Transponder-Spoofing (Com-Box), BZ-Gas | Kapitel 7/8, GD Z.6361–6839 |
-| 8. März 2014, 05:30–06:05 Uhr | Landeanflug und Bergung im Pazifik (Hohotobei/Palau, Trawler "Joh-Eun Jib IV") | Kapitel 8, GD Z.6897–7288 |
-| 19.–20. März 2014 | Rückkehr "Hom Dummal II" nach Sinpo; Nachbesprechung Operation Mujigage | Kapitel 8, GD Z.7326–7487 |
-| März 2014 | Assen, Niederlande: Thomas Ganghofer/Anique-Strang beginnt | Kapitel 9, GD Z.7738 ff. |
-| 1. April 2014 | Zwischen Rotterdam und Antwerpen: neuer Assen-Strang | Kapitel 9/10, GD Z.8412 |
-| 14.–20. April 2014 | Assen, Den Haag: Ermittlungen, Isala Klinik Zwolle (19. April, nach Aniques Unfall) | Kapitel 10, GD Z.8881–9328 |
-| Mai–Juni 2014 | Hamburg/London: Thomas Ganghofer kontaktiert Joost van der Dijkstraat | Kapitel 10/11, GD Z.9444–9917 |
-| Juni 2014 | Office 121 (Nordkorea), Russland: weitere Vorbereitung Richtung MH17 | GD Z.9867–9917 |
-| Anfang Juli 2014 | Hamburg, Groningen: Anique und Joost treffen sich, Vorlesung/Recherche zu MHHE-Bank und InBev | Kapitel 11, GD Z.10027–10353 |
-| 11. Juli 2014 | Den Haag, AIVD-Zentrale: Lagebesprechung nach Thermit-/Sprengstoff-Anschlag; Flim Dijkwijk erkennt Anique/Joost als Ziel | Kapitel 11, GD Z.10632–10877 |
-| 12.–16. Juli 2014 | Amsterdam/Den Haag: MH17-Vorbereitung, Flim/Klaas organisieren Joosts "Dead Head"-Flug | GD Z.10878–12365 |
-| 15. Juli 2014 | BUK-Rakete erreicht Donbass (2 Tage vor Abschuss) — **Logikfehler L1:** kein expliziter Szenenmarker für den Abschuss-Tag selbst (17. Juli) vorhanden | GD Z.11414 |
-| 17. Juli 2014 | MH17 wird nahe Snizhne (Donbass) abgeschossen; Joost van der Dijkstraat stirbt an Bord | GD Z.12892–13473 (Abschuss-Sequenz ohne expliziten "17. Juli"-Marker, siehe Logikfehler L1) |
-| 16. Jan. 2018 | **Ottensen, Hamburg — Rahmenkapitel:** Corinna Brandenburg erhält von Spiegel die Akten Joosts | Kapitel 12, GD Z.13473 |
-| 4. Feb. 2015 | Malaysia, Royal Belum National Park: Bibi Kaur/Satria Chow, Special-Branch-Einsatz | Kapitel 13, GD Z.13735 |
-| 9. Feb. 2015 | Den Haag; Kuala Lumpur–Riyadh–Amsterdam | GD Z.14222–14336 |
-| 10./12. Feb. 2015 | Den Haag, Amsterdam | GD Z.14336 |
-| 2015 (undatiert) | London | GD Z.14539 |
-| März 2015 | Libyen/Libysche Wüste (nahe tunesischer Grenze): Bibi/Satria schützen Dr. Benjamin Dingaka, Konflikt mit Ajwad Boussafa/Boufassar | Kapitel 14, GD Z.14624–15115 |
-| 21. März 2015 | Le Touquet-Paris Plage | GD Z.15115 |
-| 23. März 2015 | Le Touquet, Seoul-Verbindung | GD Z.15204 |
-| Mai 2015 | Westsahara-Expedition (Bodenproben, Grundlage für Buch-2-Handlung) | GD Z.15467 |
-| Juni 2015 | London (Buch-1-Ende, direkter Anschluss zu Buch 2) | GD Z.16185–16511 |
+| Mai 2011 | New York: Jessica Moon (Park Saebyeong) betreibt "Moon's JAM" als NK-Horchposten; BND-Agent Klaus Richter ("Toni Seiler") wird enttarnt | Nordkorea/Geheimdienst-Strang: New York, GD Z.3764 |
+| 22. Mai 2011 | Klaus Richter stirbt bei inszeniertem Unfall in New York (Fahrerin: getarnte NK-Agentin Kim In-Guk) | Nordkorea/Geheimdienst-Strang: New York, GD Z.3806 |
+| 5. Aug. 2011 | BND schließt die Akte zum New-York-Vorfall | Nordkorea/Geheimdienst-Strang: New York, GD Z.3840 |
+| (undatiert, nach 2011) | Dobneun-Son-Zentrale ("weinender Berg"): Führungsrunde bespricht New-York-Vorfall, bestätigt eigenen Tipp an den BND zur MHHE-Bank, beschließt Finanzierungsprogramm | Dobneun-Son/Helfende-Hände-Strang (Zentrale), GD Z.4051–4167 |
+| 10.–11. April 2013 | New York, Diner: Xi Cheng Fu und Mohammed bin Osman besprechen verdeckte chinesische Investitionsprojekte ("Sì Huán", "Makanan Naga") | Nordkorea/Geheimdienst-Strang: New York, GD Z.3850–4050 |
+| 14. April 2013 | Moskau: Jo Kyung-Sik schlägt BUK-Test (Ende Juni) vor, General Salyukov stimmt zu — **im Manuskript falsch einsortiert** (steht nach April 2014, siehe Logikfehler L2) | Russland/BUK-Strang: Moskau-Planung, GD Z.1524–1541 |
+| 14. Okt. 2013 | Pyeongyang, Büro des obersten Führers: Chang Chil Sung präsentiert Projekt Mujigage, Kim Wong-Hong (SSD) genehmigt, Kim Jong-un gibt stillen Segen | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Planung), GD Z.4172–4273 |
+| 4. Nov. 2013 | Bunker Minister Kim Wong-Hong: operative Freigabe/Ressourcen bestätigt | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Planung), GD Z.4274 ff. |
+| (nach 14. Okt. 2013, kein exaktes Datum) | Nordkorea, Falkennest: Gutseoda übernehmen Koordination, historische Jagd auf Dobneun-Son | Nordkorea/Geheimdienst-Strang: Gutseoda/Falkennest, GD Z.4470 |
+| 8. Nov. 2013 | Sinpo-Werft: U-Boot-Umbau beginnt; Büro Operation Mujigage: operative Details | Nordkorea/Geheimdienst-Strang: Projekt Mujigage (Vorbereitung), GD Z.4510–4678 |
+| Jan. 2014 (14.–20.) | Brisbane/Glashouse Mountains NP, Australien: paralleler Vorbereitungsstrang | Australien-Strang, GD Z.4679–5262 |
+| Okt. 2013 (Rücksprung) | Moskau: erste Russland-Kontakte, BUK-Vorbereitung (17./28. Okt. 2013) | Russland/BUK-Strang: erste Kontakte, GD Z.703–716 |
+| Feb. 2014 (Tonghae-Testgelände) | Russische Offiziere Mischa/Grischa beobachten BUK-M1-E2-Test — **im Manuskript falsch einsortiert**, gehört vor die März-Szenen (Logikfehler L8) | Russland/BUK-Strang: BUK-Test-Beobachtung, GD Z.7487 |
+| 22. Feb. 2014 | Sinpo-Werft: U-Boot-Einstiegsluke wird umgebaut (Vorbereitung Bergung) — **ebenfalls falsch einsortiert**, steht im Manuskript nach den März-Bergungsszenen (Logikfehler L3) | Nordkorea/Geheimdienst-Strang: MH370-Operation (Vorbereitung), GD Z.6776 |
+| 11. Feb. 2014 | Sepang Race Circuit: Vorbereitung Kuala Lumpur | MH370-Operation: Vorbereitung, GD Z.5263 |
+| 5. März 2014 | London: Stan Lee und Umfeld | MH370-Operation: London-Vorlauf, GD Z.5553 |
+| 6.–7. März 2014 | Kuala Lumpur: Flughafen-, Cargo-City- und Vorfeldszenen, Boarding MH370 | MH370-Operation: Kuala Lumpur/Boarding, GD Z.5669–6360 |
+| 7. März 2014 | Moskau: Parallelszene zur MH370-Nacht — **falsch einsortiert im Manuskript** (Logikfehler L9) | Russland/BUK-Strang: Parallelszene, GD Z.7397 |
+| 8. März 2014, 00:45–02:00 Uhr | Laderaum/Cockpit MH370: Übernahme, Transponder-Spoofing (Com-Box), BZ-Gas | MH370-Operation: Übernahme an Bord, GD Z.6361–6839 |
+| 8. März 2014, 05:30–06:05 Uhr | Landeanflug und Bergung im Pazifik (Hohotobei/Palau, Trawler "Joh-Eun Jib IV") | MH370-Operation: Bergung Pazifik, GD Z.6897–7288 |
+| 19.–20. März 2014 | Rückkehr "Hom Dummal II" nach Sinpo; Nachbesprechung Operation Mujigage | MH370-Operation: Abschluss/Nachbereitung, GD Z.7326–7487 |
+| März 2014 | Assen, Niederlande: Thomas Ganghofer/Anique-Strang beginnt | Niederlande/AIVD-Strang: Assen-Ermittlungen, GD Z.7738 ff. |
+| 1. April 2014 | Zwischen Rotterdam und Antwerpen: neuer Assen-Strang | Niederlande/AIVD-Strang: Assen-Ermittlungen, GD Z.8412 |
+| 14.–20. April 2014 | Assen, Den Haag: Ermittlungen, Isala Klinik Zwolle (19. April, nach Aniques Unfall) | Niederlande/AIVD-Strang: Assen/Den Haag/Zwolle, GD Z.8881–9328 |
+| Mai–Juni 2014 | Hamburg/London: Thomas Ganghofer kontaktiert Joost van der Dijkstraat | Niederlande/AIVD-Strang: Kontakt zu Joost, GD Z.9444–9917 |
+| Juni 2014 | Office 121 (Nordkorea), Russland: weitere Vorbereitung Richtung MH17 | Nordkorea/Geheimdienst-Strang & Russland/BUK-Strang: MH17-Vorbereitung, GD Z.9867–9917 |
+| Anfang Juli 2014 | Hamburg, Groningen: Anique und Joost treffen sich, Vorlesung/Recherche zu MHHE-Bank und InBev | Niederlande/AIVD-Strang: Groningen-Vorabend, GD Z.10027–10353 |
+| 11. Juli 2014 | Den Haag, AIVD-Zentrale: Lagebesprechung nach Thermit-/Sprengstoff-Anschlag; Flim Dijkwijk erkennt Anique/Joost als Ziel | Niederlande/AIVD-Strang: AIVD-Lagebesprechung, GD Z.10632–10877 |
+| 12.–16. Juli 2014 | Amsterdam/Den Haag: MH17-Vorbereitung, Flim/Klaas organisieren Joosts "Dead Head"-Flug | MH17-Operation: Vorbereitung, GD Z.10878–12365 |
+| 15. Juli 2014 | BUK-Rakete erreicht Donbass (2 Tage vor Abschuss) — **Logikfehler L1:** kein expliziter Szenenmarker für den Abschuss-Tag selbst (17. Juli) vorhanden | MH17-Operation: BUK-Ankunft Donbass, GD Z.11414 |
+| 17. Juli 2014 | MH17 wird nahe Snizhne (Donbass) abgeschossen; Joost van der Dijkstraat stirbt an Bord | MH17-Operation: Abschuss, GD Z.12892–13473 (Abschuss-Sequenz ohne expliziten "17. Juli"-Marker, siehe Logikfehler L1) |
+| 16. Jan. 2018 | **Ottensen, Hamburg:** Corinna Brandenburg erhält von Spiegel die Akten Joosts | Rahmenhandlung 2018 (Hamburg), GD Z.13473 |
+| 4. Feb. 2015 | Malaysia, Royal Belum National Park: Bibi Kaur/Satria Chow, Special-Branch-Einsatz | Malaysia/Special-Branch-Strang, GD Z.13735 |
+| 9. Feb. 2015 | Den Haag; Kuala Lumpur–Riyadh–Amsterdam | Niederlande/AIVD-Strang & Malaysia/Special-Branch-Strang: Nachspiel, GD Z.14222–14336 |
+| 10./12. Feb. 2015 | Den Haag, Amsterdam | Niederlande/AIVD-Strang: Nachspiel, GD Z.14336 |
+| 2015 (undatiert) | London | Buch-2-London-Strang: Vorlauf, GD Z.14539 |
+| März 2015 | Libyen/Libysche Wüste (nahe tunesischer Grenze): Bibi/Satria schützen Dr. Benjamin Dingaka, Konflikt mit Ajwad Boussafa/Boufassar | Libyen/Westsahara-Strang: Dingaka-Expedition, GD Z.14624–15115 |
+| 21. März 2015 | Le Touquet-Paris Plage | Libyen/Westsahara-Strang: Rückreise, GD Z.15115 |
+| 23. März 2015 | Le Touquet, Seoul-Verbindung | Historische Ebene/Korea-Verbindung: Seoul-Anschluss, GD Z.15204 |
+| Mai 2015 | Westsahara-Expedition (Bodenproben, Grundlage für Buch-2-Handlung) | Libyen/Westsahara-Strang: Expedition/Bodenproben, GD Z.15467 |
+| Juni 2015 | London (Buch-1-Ende, direkter Anschluss zu Buch 2) | Buch-2-London-Strang: Anschluss, GD Z.16185–16511 |
 
 ## Buch 2 — "Dobneun Son — Die Helfenden Hände" (ab Juni 2015)
 
-| Zeitpunkt | Ereignis | Kapitel/Quelle |
+| Zeitpunkt | Ereignis | Handlungsstrang / Quelle |
 |---|---|---|
-| Juni 2015 | **London (vollständig ausgeschriebene Eröffnungsszene):** Amy Woodcrow bemerkt Drohnenüberwachung von Dr. Dingakas Probenlager; NK-Kommandoteam (4 Kämpfer + Dr. Sun Park) plant Einbruch; Oenjjog Jumeog warnt Ananda Khalebendi/David Whitmore; SAS + SRR + FF-Team vereiteln den Angriff; Cliffhanger "Was war in der Zwischenzeit passiert?" | GD Z.16856–17977 |
-| (offen) | Kapitel 1 — "Spurensuche, Korea" (5 Szenen) | **nur Platzhalter**, GD Z.17974–17994 |
-| (offen) | Kapitel 2 — "Feinde" (3 Szenen, vermutlich Gutseoda/Falkennest-Perspektive) | **nur Platzhalter**, GD Z.17998–18010 |
-| (offen) | Kapitel 3 — "Afrika, UnMaCo" (8 Szenen, Bezug Westsahara/Goldvorkommen, "UnMaCo" ungeklärt) | **nur Platzhalter**, GD Z.18012–18038 |
-| (offen) | Kapitel 4 — "Recherche, Geld" (4 Szenen, vermutlich Corinna/McAllan, Bankverbindungen) | **nur Platzhalter**, GD Z.18040–18060 |
+| Juni 2015 | **London (vollständig ausgeschriebene Eröffnungsszene):** Amy Woodcrow bemerkt Drohnenüberwachung von Dr. Dingakas Probenlager; NK-Kommandoteam (4 Kämpfer + Dr. Sun Park) plant Einbruch; Oenjjog Jumeog warnt Ananda Khalebendi/David Whitmore; SAS + SRR + FF-Team vereiteln den Angriff; Cliffhanger "Was war in der Zwischenzeit passiert?" | Buch-2-London-Strang: vereitelter Anschlag, GD Z.16856–17977 |
+| (offen) | "Spurensuche, Korea" (5 Szenen) | Historische Ebene/Korea-Strang — **nur Platzhalter**, GD Z.17974–17994 |
+| (offen) | "Feinde" (3 Szenen, vermutlich Gutseoda/Falkennest-Perspektive) | Nordkorea/Geheimdienst-Strang: Gegner-Perspektive — **nur Platzhalter**, GD Z.17998–18010 |
+| (offen) | "Afrika, UnMaCo" (8 Szenen, Bezug Westsahara/Goldvorkommen, "UnMaCo" ungeklärt) | Libyen/Westsahara-Strang: Fortsetzung — **nur Platzhalter**, GD Z.18012–18038 |
+| (offen) | "Recherche, Geld" (4 Szenen, vermutlich Corinna/McAllan, Bankverbindungen) | Rahmenhandlung 2018: Recherche/Finanzen — **nur Platzhalter**, GD Z.18040–18060 |
 
 ## Rahmenhandlung 2018 (Gegenwart, laut `kap3_korrigiert`)
 
-| Zeitpunkt | Ereignis | Quelle |
+| Zeitpunkt | Ereignis | Handlungsstrang / Quelle |
 |---|---|---|
-| 16. Jan. 2018 | Corinna erhält Joosts Akten (Ottensen, Hamburg) | GD Kapitel 12 |
-| Feb. 2018 – Herbst 2018 | Unregelmäßiger, wachsender E-Mail-Kontakt mit einem anonymen Informanten (später als McAllan enttarnt) | K3 Z.8 |
-| Mi., 10. Okt. 2018, 21:30 Uhr | Abflug Corinna Hamburg → Dubai (Emirates First Class, Tarnname "Cory/Corinna Brandell") | K3 Z.19–100 |
-| Do., 11. Okt. 2018, 05:45 Uhr | Landung Dubai; Unterbringung Hotel The Palm, One&Only | K3 Z.106–216 |
-| Do., 11. Okt. 2018 (vormittags) | Erstes Treffen mit "Daily" McAllan im Restaurant Zest; Härtetest mit Schauspieler "George"/"Trillian Beeblebrox" | K3 Z.219–336 |
-| Do., 11. Okt. 2018 (tagsüber/abends) | Shopping mit Butlerin Katya; McAllan bereitet Cabana-Gespräch vor | K3 Z.336–369 |
-| Fr., 12. Okt. 2018 (Vormittag) | Gespräch in McAllans Cabana: Vorstellung ("Hyeonjae Somun 'Daily' McAllan"), Anschlag der "Nachtfalken" wird vereitelt (Thomas Bauer) | K3 Z.369–547 |
-| Fr., 12. Okt. 2018 (Nachmittag) | **"Kapitel 3: Wie alles begann"** — Konvoi in die Wüste zum Al Maha Resort; Hinterhalt in den Dünen, abgewehrt von Thomas Bauer, Bibi, Satria, mit Unterstützung von Anique (Drohne) und Flim (Hubschrauber/Logistik) | K3 Z.550–700+ |
+| 16. Jan. 2018 | Corinna erhält Joosts Akten (Ottensen, Hamburg) | Rahmenhandlung 2018 (Hamburg), GD |
+| Feb. 2018 – Herbst 2018 | Unregelmäßiger, wachsender E-Mail-Kontakt mit einem anonymen Informanten (später als McAllan enttarnt) | Rahmenhandlung 2018 (Hamburg), K3 Z.8 |
+| Mi., 10. Okt. 2018, 21:30 Uhr | Abflug Corinna Hamburg → Dubai (Emirates First Class, Tarnname "Cory/Corinna Brandell") | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.19–100 |
+| Do., 11. Okt. 2018, 05:45 Uhr | Landung Dubai; Unterbringung Hotel The Palm, One&Only | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.106–216 |
+| Do., 11. Okt. 2018 (vormittags) | Erstes Treffen mit "Daily" McAllan im Restaurant Zest; Härtetest mit Schauspieler "George"/"Trillian Beeblebrox" | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.219–336 |
+| Do., 11. Okt. 2018 (tagsüber/abends) | Shopping mit Butlerin Katya; McAllan bereitet Cabana-Gespräch vor | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.336–369 |
+| Fr., 12. Okt. 2018 (Vormittag) | Gespräch in McAllans Cabana: Vorstellung ("Hyeonjae Somun 'Daily' McAllan"), Anschlag der "Nachtfalken" wird vereitelt (Thomas Bauer) | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.369–547 |
+| Fr., 12. Okt. 2018 (Nachmittag) | Wüsten-Konvoi/Hinterhalt in den Dünen (Al Maha Resort), abgewehrt von Thomas Bauer, Bibi, Satria, mit Unterstützung von Anique (Drohne) und Flim (Hubschrauber/Logistik) — im Quellentext betitelt "Kapitel 3: Wie alles begann" | Rahmenhandlung 2018 (Dubai/Wüste), K3 Z.550–700+ |
 
-## Kapitelübersicht Buch 1 (reale Kapitelgliederung im Manuskript)
+## Handlungsstränge in Buch 1 (Rohmaterial-Übersicht)
 
-Das Gesamtdokument (TEIL B) gliedert Buch 1 tatsächlich in **Kapitel,
-jeweils mit Sun-Tzu-Zitat als Motto** — diese reale Gliederung weicht von
-der in TEIL A diskutierten "logischen Kapitelfolge mit 69–73
-Szenenmarkern" ab (jene war eine Neuordnungs-Empfehlung, keine
-tatsächliche Struktur). Diese Tabelle ist auch für die Kapitelübersicht
-in `README.md` übernommen.
+Das Rohmaterial (Gesamtdokument, TEIL B) ist im Quelltext ursprünglich in
+nummerierte Kapitel mit Sun-Tzu-Zitat als Motto gegliedert (durchlaufend
+von "Kapitel 2" bis "Kapitel 14", der Prolog/"Teil 1: Eruptionen" ist
+unbeziffert). **Für dieses Projekt wird diese Kapitelnummerierung bewusst
+nicht als Ordnungsprinzip übernommen** — die folgende Übersicht
+gruppiert den vorgefundenen Text stattdessen nach thematischem
+Handlungsstrang:
 
-| Kapitel | Inhalt/Schwerpunkt | Sun-Tzu-Motto vorhanden? |
+| Handlungsstrang | Inhalt/Zeitraum | Quelle (GD-Zeilen) |
 |---|---|---|
-| (Prolog/"Teil 1: Eruptionen") | New York, Mai 2011 – April 2013 | nein |
-| 2 | Dobneun-Son-Zentrale ("weinender Berg"), New-York-Nachbereitung | ja |
-| 3 | Projekt Mujigage: Pyeongyang, Falkennest, Sinpo-Werft (Okt.–Nov. 2013) | ja — **⚠️ Achtung:** inhaltlich nicht zu verwechseln mit "Kapitel 3" aus `kap3_korrigiert` (siehe Konsistenzhinweis unten) |
-| 4 | Brisbane/Glashouse Mountains, Australien (Jan. 2014) | ja |
-| 5 | Sepang Race Circuit, MH370-Vorbereitung (Feb.–März 2014) | ja |
-| 6 | Flughafen Kuala Lumpur, Boarding MH370 (März 2014) | ja |
-| 7 | Cargo-City/weitere MH370-Szenen | ja |
-| 8 | Raketen-/Artillerie-Hauptverwaltung, Tonghae, Sinpo-Nachbereitung | ja |
-| 9 | Assen, Niederlande (Anique-Strang, März 2014) | ja |
-| 10 | Isala Klinik Zwolle, weitere NL-Szenen (April 2014) | ja |
-| 11 | Groningen, MH17-Vorbereitung (Juli 2014) | ja |
-| 12 | Ottensen, Hamburg — Rahmenkapitel Corinna (16. Jan. 2018) | ja |
-| 13 | Malaysia, Royal Belum NP (Feb. 2015) | nein (nur "Kapitel 13- Malysia") |
-| 14 | Libyen/Afrika-Strang (März 2015) | ja |
-| (unnummeriert) | Le Touquet, Westsahara, London Juni 2015 (Buch-1-Ende) | nein |
+| Nordkorea/Geheimdienst-Strang | New York (Moon's JAM, 2011–2013), Pyeongyang-Planung Projekt Mujigage (Okt.–Nov. 2013), Falkennest/Gutseoda | GD Z.3764–4678 |
+| Dobneun-Son/Helfende-Hände-Strang (Zentrale) | Zentrale im "weinenden Berg", Finanzierungsprogramm | GD Z.4051–4167 |
+| Russland/BUK-Strang | Moskau-Planung, Tonghae-Test | GD Z.703–716, 7487 |
+| Australien-Strang | Brisbane/Glashouse Mountains | GD Z.4679–5262 |
+| MH370-Operation | Sepang-Vorbereitung bis Bergung/Rückkehr | GD Z.5263–7487 |
+| Niederlande/AIVD-Strang | Assen/Den Haag/Zwolle/Groningen, Anique/Thomas Ganghofer/Joost | GD Z.7738–10877 |
+| MH17-Operation | Amsterdam/Den Haag-Vorbereitung, Donbass-Abschuss | GD Z.10878–13473 |
+| Rahmenhandlung 2018 (Hamburg) | Ottensen, Corinna erhält Joosts Akten | GD Z.13473 |
+| Malaysia/Special-Branch-Strang | Royal Belum NP, Bibi Kaur/Satria Chow | GD Z.13735–14336 |
+| Libyen/Westsahara-Strang | Dr. Dingaka-Expedition, Bodenproben | GD Z.14624–15467 |
+| Buch-2-London-Strang (Anschluss) | London Juni 2015 (Buch-1-Ende) | GD Z.16185–16511 |
 
-**Wichtiger Konsistenzhinweis (Priorität hoch):** Laut `quellen.md` hat
-`kap3_korrigiert_20260707.md` Vorrang "vor der Kapitel-3-Fassung" in
-Gesamtdokument/Band 1. Das im Gesamtdokument selbst mit "Kapitel 3:..."
-überschriebene Textstück behandelt jedoch **Pyeongyang/Projekt
-Mujigage** (nordkoreanische Planung), während `kap3_korrigiert`
-**"Kapitel 3: Wie alles begann"** die **Corinna/McAllan-Dubai/Wüsten-Szene**
-ist. Das sind zwei völlig unterschiedliche Inhalte, keine bloße
-Textkorrektur derselben Szene. Vermutlich stammt `kap3_korrigiert` aus
-einer bereits umstrukturierten Fassung (Rahmenkapitel nach vorne gezogen,
-wie in TEIL A empfohlen), die im Gesamtdokument (Stand 24.12.2026) nicht
-nachvollzogen wurde. **Empfehlung: vor dem Schreiben/Lektorieren von
-Kapitel 3 mit dem Nutzer klären, welche Fassung/Nummerierung aktuell
-gilt.**
+**Hinweis zu den zwei "Kapitel 3"-Texten im Rohmaterial (kein
+Widerspruch, sondern zwei getrennte Handlungsstränge):** Im
+Gesamtdokument trägt das Textstück zu Pyeongyang/Projekt Mujigage
+(Okt.–Nov. 2013, GD Z.4169 ff.) die Überschrift "Kapitel 3"; in
+`kap3_korrigiert_20260707.md` trägt die Corinna/McAllan-Dubai/Wüsten-Szene
+(Okt. 2018) ebenfalls die Überschrift "Kapitel 3: Wie alles begann". Da
+für dieses Projekt die Kapitelnummer kein Ordnungskriterium ist, sind das
+schlicht **zwei unterschiedliche thematische Abschnitte** —
+"Nordkorea/Geheimdienst-Strang: Projekt Mujigage" einerseits und
+"Rahmenhandlung 2018 (Dubai/Wüste)" andererseits —, die im Rohmaterial
+zufällig dieselbe Kapitelnummer trugen. Beide Inhalte bleiben wie
+recherchiert erhalten; es besteht kein Klärungsbedarf mehr.
 
 ## Bekannte Logikfehler/Datumsprobleme (aus TEIL A, Ghostwriter-Analyse — zur Prüfung)
 
