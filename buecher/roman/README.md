@@ -17,6 +17,7 @@ buecher/roman/
 ```
 
 Wichtige Dateien in `recherche/` (werden vom `roman-rechercheur` gepflegt):
+- `quellen.md` — zentrale, manuell gepflegte Quellensammlung (Grundlagen)
 - `figuren.md` — Steckbriefe der Hauptfiguren
 - `welt.md` — Setting, Regeln der Welt, wichtige Orte
 - `zeitleiste.md` — chronologischer Ablauf der Handlung

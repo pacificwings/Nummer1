@@ -12,7 +12,9 @@
 ```
 buecher/sachbuch/
 ├── README.md         diese Datei — Projektsteckbrief
-├── recherche/        Recherche-Dossiers pro Kapitel (Fakten, Quellen, offene Fragen)
+├── recherche/
+│   ├── quellen.md    Zentrale, manuell gepflegte Quellensammlung (Grundlagen)
+│   └── ...           Recherche-Dossiers pro Kapitel (Fakten, offene Fragen)
 └── manuskript/        die eigentlichen Kapiteltexte
 ```
 
