@@ -1,23 +1,23 @@
 # Nummer1
 
-Buch-Projekte mit spezialisierten Claude-Code-Agenten für Recherche, Schreiben und Lektorat.
+Roman-Projekt "Dobneun Son" mit spezialisierten Claude-Code-Agenten für Recherche, Schreiben, Stil und Lektorat.
 
-## Projekte
+> Dieses Repo ist ausschließlich dem Roman-Projekt gewidmet. Ein früher hier angelegtes Sachbuch-Projekt (ESG-Thema) wurde entfernt — es wird nicht in Nummer1 geführt.
 
-- [`buecher/sachbuch/`](buecher/sachbuch/README.md) — Sachbuch
-- [`buecher/roman/`](buecher/roman/README.md) — Roman
+## Projekt
+
+- [`buecher/roman/`](buecher/roman/README.md) — Roman "Dobneun Son"
 
 ## Agenten
 
-Für jedes Buch gibt es vier Subagenten (definiert in `.claude/agents/`), die nacheinander im Workflow **Recherche → Schreiben → Schriftsteller (Stil) → Lektorat** eingesetzt werden:
+Vier Subagenten (definiert in `.claude/agents/`), die nacheinander im Workflow **Recherche → Schreiben → Schriftsteller (Stil) → Lektorat** eingesetzt werden:
 
-| Buch     | Recherche              | Schreiben            | Schriftsteller (Stil)      | Lektorat            |
-|----------|-------------------------|----------------------|-----------------------------|----------------------|
-| Sachbuch | `sachbuch-rechercheur`  | `sachbuch-schreiber` | `sachbuch-schriftsteller`   | `sachbuch-lektor`    |
-| Roman    | `roman-rechercheur`     | `roman-schreiber`    | `roman-schriftsteller`      | `roman-lektor`       |
+| Recherche           | Schreiben         | Schriftsteller (Stil)  | Lektorat        |
+|----------------------|-------------------|--------------------------|------------------|
+| `roman-rechercheur`  | `roman-schreiber` | `roman-schriftsteller`   | `roman-lektor`   |
 
-Der Schriftsteller-Agent bringt einen Text in den für das jeweilige Projekt geltenden Schreibstil (beim Roman verbindlich definiert im Skill `roman-mcallan`) — er ändert keine Fakten/Handlung, nur Sprache und Form.
+Der Schriftsteller-Agent bringt einen Text in den für das Projekt verbindlichen Schreibstil (definiert im Skill `roman-mcallan`) — er ändert keine Fakten/Handlung, nur Sprache und Form.
 
-Aufruf z.B. in Claude Code: *"Nutze den Agenten sachbuch-rechercheur, um Kapitel 1 zu recherchieren"* oder direkt über das Agent-Tool mit dem jeweiligen `subagent_type`.
+Aufruf z.B. in Claude Code: *"Nutze den Agenten roman-rechercheur, um X zu recherchieren"* oder direkt über das Agent-Tool mit dem jeweiligen `subagent_type`.
 
-Jedes Buch hat sein eigenes `recherche/`-Verzeichnis (Fakten-Dossiers bzw. Figuren/Welt/Zeitleiste) und `manuskript/`-Verzeichnis (Kapiteltexte). Details siehe die jeweilige README im Projektordner.
+`buecher/roman/recherche/` enthält Figuren/Welt/Zeitleiste sowie das importierte Quellenmaterial; `buecher/roman/manuskript/` die eigentlichen Kapiteltexte. Details siehe die README im Projektordner.
