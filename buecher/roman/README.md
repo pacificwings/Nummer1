@@ -2,10 +2,14 @@
 
 ## Projektdaten
 
-- **Arbeitstitel:** _(noch offen)_
-- **Genre:** _(noch offen)_
-- **Perspektive/Erzählform:** _(noch offen, z.B. Ich-Erzähler, 3. Person)_
-- **Zielumfang:** _(noch offen, z.B. Anzahl Kapitel/Wörter)_
+- **Reihentitel/Autor:** H.S. "Daily" McAllan
+- **Buch 1:** "Das Geheimnis der »Dobson Neun«"
+- **Buch 2:** "Dobneun Son – Die Helfenden Hände"
+- **Genre:** Politthriller/Spionage-Roman, angelehnt an reale Ereignisse (u.a. MH370, MH17) mit historischer Rückblende (Korea, 650 AD)
+- **Perspektive/Erzählform:** siehe Analysenotizen in `recherche/quellenmaterial/gesamtdokument_20261224.md` (TEIL A) — Empfehlung dort: Ich-Erzähler McAllan mit auktorialem Rückblick
+- **Zielumfang:** _(noch offen)_
+
+Bestehendes Quellenmaterial (vorhandene Manuskript-Entwürfe) ist bereits eingepflegt, siehe `recherche/quellen.md` und `recherche/quellenmaterial/`. Figuren-, Welt- und Zeitleisten-Dateien werden daraus vom `roman-rechercheur` befüllt.
 
 ## Struktur
 
