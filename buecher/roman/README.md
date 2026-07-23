@@ -101,3 +101,24 @@ Status-Werte für neu zu schreibende/lektorierte Kapitel dieses Projekts
 bleiben: geplant → Entwurf → lektoriert → final. Die obige Tabelle
 beschreibt den Stand des vorgefundenen Rohmaterials, nicht den
 Bearbeitungsstand dieses Repos.
+
+## Offene redaktionelle Entscheidungen (Nutzer, keine Agenten-Aufgabe)
+
+Aus der externen Verleger-/Lektoratsanalyse (Quelle #10,
+`recherche/quellenmaterial/verleger_lektor_analyse_20260523.txt`) — zwei
+Punkte, die bewusst **nicht** automatisch von einem Agenten entschieden
+wurden:
+
+1. **Fehlender Protagonist / Dramaturgie-Schwäche:** 25+ benannte Figuren,
+   keine davon als klare Fokusfigur etabliert; kein erkennbarer
+   Drei-Akt-Bogen. Die Analyse schlägt drei Optionen vor: (a) Chang Chil
+   Sung als Anti-Held, (b) Joost + Anique als westliches Ermittlerpaar,
+   (c) eine neue Figur mit persönlichem Bezug zu MH370. Dafür ist aktuell
+   **kein Agent zuständig** — weder Schriftsteller (Stil) noch Lektor
+   (Logik) noch Rechercheur (Fakten/Kanon) decken Dramaturgie/
+   Figurenführung auf Gesamtwerk-Ebene ab.
+2. **Rechtliches Risiko durch reale, namentlich genannte Personen**
+   (Girkin, Dubinskij, Pulatow) mit fiktiven Handlungen im
+   MH17-Handlungsstrang — Verleumdungsrisiko laut Analyse. Empfehlung dort:
+   Namensänderung oder deutlicher Disclaimer. Das ist eine
+   Entscheidung des Nutzers, keine automatisierbare Textkorrektur.

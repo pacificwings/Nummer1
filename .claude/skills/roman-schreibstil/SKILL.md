@@ -202,6 +202,16 @@ Diese Muster wurden beim Quellenstudium mehrfach gefunden und sollten **nicht** 
    beide bereits kennen müssten, nur damit der Leser sie erfährt. Besser: Hintergrundinfo in den
    Erzähltext legen (siehe Abschnitt 1), Dialog für tatsächlich neue Informationen zwischen den
    Figuren reservieren.
+6. **Info-Dump-Passagen ohne erzählerischen Sog** (bestätigt durch externe Verleger-/
+   Lektoratsanalyse, Quelle #10): mehrabsätzige Fakten-Blöcke, die die Handlung anhalten, statt sie
+   zu tragen — konkret dokumentiert für die Schiffsgeschichte "MS Sole Sourcer", die
+   HSBC-Gründungsgeschichte (dort laut Analyse nahezu unverändert übernommener Nachschlagewerk-Text)
+   und den Bau des Shard-Towers. Faustregel aus der Analyse: Wenn ein Absatz gestrichen werden kann,
+   ohne dass die Handlung leidet, gehört er gestrichen oder auf 2–4 Sätze gekürzt (siehe Abschnitt 1).
+7. **Dialoge bleiben auch unter Stress vollständig grammatikalisch korrekt** (Verleger-Analyse,
+   Quelle #10): Figuren sprechen selbst in Gefahrensituationen in ganzen, korrekten Sätzen. Für
+   mehr Natürlichkeit: unter Stress/Zeitdruck abgebrochene Sätze, Wiederholungen oder ausgelassene
+   Satzteile zulassen — passend zum ohnehin knapperen Funk-/Einsatz-Register (Abschnitt 2b).
 
 ---
 

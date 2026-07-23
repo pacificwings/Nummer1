@@ -1,0 +1,396 @@
+VERLEGER- UND LEKTORATSANALYSE
+Das Geheimnis der 'Dobneun Son' - Teil 1: Eruptionen
+H.S. 'Daily' McAllan | 129.300 Wörter | 23. Mai 2026
+================================================================
+
+
+TEIL 1: VERLEGERPERSPEKTIVE
+================================================================
+
+1. GENRE UND ZIELGRUPPE
+------------------------
+Das Buch ist ein politischer Spionagethriller mit Elementen des
+Verschwörungsromans und des Geheimdienstromans. Es bewegt sich formal im
+Subgenre des Geopolitischen Thrillers - vergleichbar mit Tom Clancy oder,
+in der deutschen Tradition, Andreas Eschbach.
+
+Die Zielgruppe ist überwiegend männlich, 40-65 Jahre, politisch
+interessiert, mit Affinität zu Geheimdienstthemen, internationaler
+Politik, Luftfahrt und Militär. Diese Zielgruppe ist in Deutschland real
+und kaufkräftig - aber anspruchsvoll. Sie verzeiht keine faktischen Fehler.
+
+Die breite Internationalisierung (Korea, Malaysia, Niederlande,
+Deutschland, Russland, Ukraine, Australien, Grossbritannien) ist ein
+Pluspunkt: Der Roman wirkt nicht provinziell.
+
+
+2. VERGLEICHSTITEL (COMPS)
+---------------------------
+- Tom Clancy, The Hunt for Red October
+  Parallele: Militärische Planungsszenen, technisches Detail, parallele
+  Plotstränge
+
+- Andreas Eschbach, NSA
+  Parallele: Fiktionalisierung realer Technologien/Ereignisse,
+  deutschsprachiger Markt
+
+- Daniel Silva, The Unlikely Spy
+  Parallele: Multi-POV-Spionagethriller, internationaler Schauplatz
+
+- Vince Flynn, American Assassin
+  Parallele: Geheimdienstoperationen, Figurentypen
+
+- Frederick Forsyth, The Day of the Jackal
+  Parallele: Detailversessenheit, prozedurale Authentizität
+
+Die Nähe zu Clancy und Forsyth ist kommerziell wertvoll. Das Problem:
+beide schreiben auf einem handwerklich höheren Niveau.
+
+
+3. ALLEINSTELLUNGSMERKMAL (USP)
+---------------------------------
+Das USP ist eindeutig und potentiell sehr stark: Das Buch behauptet zu
+erklären, was wirklich mit Flug MH370 geschah - und verbindet dieses
+Verschwinden mit dem Abschuss von MH17, nordkoreanischen
+Geheimoperationen und einer globalen weißen Verschwörung (Helfende
+Hände), die im Verborgenen Gutes tut.
+
+Das ist eine mutige, originelle Prämisse. Die MH370-Lücke im kollektiven
+Bewusstsein ist ein echter Aufhänger.
+
+Das USP ist aber gleichzeitig das größte Risiko (siehe Punkt 5).
+
+
+4. KLAPPENTEXT-TEST
+--------------------
+"März 2014: Malaysia Airlines Flug MH370 verschwindet spurlos. Die Welt
+rätselt - Joost van der Dijkstraat recherchiert. Was er findet, bringt
+ihn fast um sein Leben. In Nordkorea plant Generalmajor Chang eine
+Operation, die die Welt erschüttern soll. Eine gestohlene Fracht, ein
+entführtes Flugzeug, ein abgeschossenes Passagierjet über der Ukraine -
+und dahinter: ein Geheimnis, das niemand sehen will. Weil manche
+Verschwörungen nicht aus Gier entstehen, sondern aus dem Wunsch, das
+Richtige zu tun."
+
+Urteil: Der Klappentext funktioniert - aber nur, wenn der Roman hält, was
+er verspricht. In der vorliegenden Form tut er das noch nicht vollständig.
+
+
+5. MARKTCHANCEN UND RISIKEN
+-----------------------------
+Chancen:
+  + MH370 ist bis heute ungelöst - das Publikumsinteresse bleibt aktiv
+  + Der Korea-Winkel ist unverbraucht im deutschen Thriller-Markt
+  + Die Weiße Verschwörung als Gegenmodell zur üblichen Dark-Power-Fantasy
+    ist frisch
+  + Der Roman ist erkennbar gut recherchiert - das differenziert ihn von
+    billigen Verschwörungsromanen
+
+RISIKO 1 (KRITISCH): MH370 und MH17 als Fiktion
+  239 Menschen verschwanden mit MH370, 298 starben durch MH17. Ein Verlag
+  riskiert massiven öffentlichen Gegendruck. Lösung: deutlicher
+  Disclaimer, Namensänderung realer Personen (Girkin, Dubinskij, Pulatow).
+
+RISIKO 2 (HOCH): Kein Abschluss
+  Das Buch ist Teil 1 und endet ohne Auflösung. Leseverdruss bei einem
+  500-Seiten-Werk ohne Schluss ist erheblich - außer Teil 2 erscheint
+  zeitgleich.
+
+RISIKO 3 (MITTEL): Handwerkliche Schwächen
+  Info-Dumps, fehlende Haupthandlungslinie, kein klarer Protagonist. Diese
+  Mängel irritieren anspruchsvolle Thriller-Leser.
+
+
+6. VERÖFFENTLICHUNGSEMPFEHLUNG
+--------------------------------
+RÜCKGABE MIT ÜBERARBEITUNGSAUFLAGE.
+
+Das Buch hat echtes Potenzial und eine originelle Prämisse - aber in der
+vorliegenden Form ist es nicht marktreif. Die drei Hauptprobleme (ethisches
+Risiko MH370/MH17, handwerkliche Schwächen, fehlender Abschluss als
+Einzelband) müssen vor der Einreichung adressiert werden.
+
+
+================================================================
+TEIL 2: LEKTORATSPERSPEKTIVE
+================================================================
+
+GESAMTÜBERSICHT BEWERTUNGEN
+-----------------------------
+  2.1  Einstieg und Exposition          *** (3/5)
+  2.2  Spannungsbogen und Dramaturgie   **  (2/5)
+  2.3  Figuren und Charakterentwicklung **  (2/5)
+  2.4  Perspektive und Erzählhaltung    *** (3/5)
+  2.5  Dialoge                          *** (3/5)
+  2.6  Sprache und Stil                 *** (3/5)
+  2.7  Tempo und Pacing                 **  (2/5)
+  2.8  Plausibilität und Recherche      **** (4/5)
+  2.9  Struktur und Aufbau              *** (3/5)
+  2.10 Thematische Tiefe               **** (4/5)
+
+
+2.1 EINSTIEG UND EXPOSITION  ***  (3/5)
+-----------------------------------------
+Der erste Satz - die Szene im Moons JAM Diner in New York, Mai 2011 - ist
+handwerklich solide. Die Tarnung der nordkoreanischen Agentin, das ironische
+Abhörmikrofon: Das ist eine gute Idee mit einem netten Twist.
+
+Das Problem: Der Einstieg ist drei Jahre und einen Kontinent vom eigentlichen
+Kernthema entfernt. Der Leser erwartet ein Buch über MH370 und findet auf den
+ersten 20 Seiten eine New Yorker Restaurant-Szene.
+
+EMPFEHLUNG: Die Szene, in der Generalmajor Chang die Idee zur
+Flugzeugentführung entwickelt (Zeile 127ff.), wäre ein stärkerer Einstieg -
+oder direkt das Verschwinden des Flugzeugs (08. März 2014, 00:42 Uhr). Die
+New-York-Exposition kann später eingeflochten werden.
+
+
+2.2 SPANNUNGSBOGEN UND DRAMATURGIE  **  (2/5)
+------------------------------------------------
+Das ist die gravierendste handwerkliche Schwäche. Der Roman hat keinen klaren
+dramaturgischen Bogen - er hat Episoden. Die Handlung springt zwischen
+Dutzenden Schauplätzen und Charakteren ohne erkennbares Drei-Akt-Gerüst.
+
+Wendepunkte sind vorhanden, aber nicht markiert oder ausreichend entwickelt:
+  - Changs Bunker-Briefing (Nov. 2013) als Plot Point 1
+  - Thomas Ganghofers Tod als Midpoint
+  - Joosts Flucht nach Malaysia als möglicher Plot Point 2
+
+SCHWERWIEGEND: Der Benjamin-Dingaka/Ananda-Khalebendi-Subplot am Ende wirkt
+wie ein anderes Buch. Wenn diese Figuren im Gesamtbogen eine Rolle spielen,
+muss ihre Relevanz früher eingeführt werden.
+
+EMPFEHLUNG (MUSS): Vor der Überarbeitung die dramaturgische Kurve auf einer
+Seite skizzieren: Wer ist die Hauptfigur? Was will sie? Was verhindert das?
+Wie eskaliert die Spannung? Wie endet Teil 1 befriedigend-offen?
+
+
+2.3 FIGUREN UND CHARAKTERENTWICKLUNG  **  (2/5)
+-------------------------------------------------
+Das zentrale Problem: KEIN PROTAGONIST. Der Roman hat mindestens 25 benannte
+Figuren mit eigenen Szenen. Keine einzige davon ist so präsent und emotional
+zugänglich, dass der Leser mitfiebert.
+
+Generalmajor Chang Chil Sung ist der beste Kandidat für einen
+Anti-Helden-Protagonisten: intelligent, kaltblütig, karrierebewusst. Die Szene
+mit dem Werftdirektor Zhou ist effektiv. Aber Chang verschwindet immer wieder
+für lange Passagen.
+
+Oberstleutnant Cho Mi-Ran (Zeilen 234-239) hat die stärkste
+Einführungsszene des Romans: Gewichtheberin, Leiterin von Einheit 180, weist
+alle in die Schranken ohne laut zu werden. Leider verschwindet sie danach
+weitgehend.
+
+Thomas Ganghofer ist der offensichtlichste Sympathieträger - aber er wird
+getötet, bevor der Leser ihn wirklich kennt. Sein Tod hat deshalb nicht den
+Schlag, den er haben müsste.
+
+EMPFEHLUNG (MUSS): Eine Hauptfigur bestimmen. Drei Optionen:
+  (1) Chang als Anti-Held
+  (2) Joost + Anique als westliches Ermittlerpaar
+  (3) Neue Figur mit persönlichem Einsatz im MH370-Thema
+Alle anderen Stränge werden untergeordnet.
+
+
+2.4 PERSPEKTIVE UND ERZÄHLHALTUNG  ***  (3/5)
+-----------------------------------------------
+Der auktoriale Erzähler in der dritten Person ist die richtige Wahl. Die
+Erzählhaltung ist konsequent neutral und sachlich, was zur Geheimdienstwelt
+passt.
+
+Das Problem ist die Häufigkeit der Wechsel. Manchmal springt der Erzähler
+innerhalb von drei Absätzen zwischen drei verschiedenen Figuren - das macht
+emotionale Bindung unmöglich.
+
+KONKRET (Zeilen 160-205): Die Bunker-Briefing-Sequenz springt zwischen Chang,
+Major Lim, Kwong, Zang und dem anonymen Soldaten. Jede Figur kriegt einen Satz
+Innenperspektive. Das ergibt Fragmentierung statt Spannung.
+
+
+2.5 DIALOGE  ***  (3/5)
+--------------------------
+Die Dialoge sind das stärkste handwerkliche Element des Romans.
+
+BESONDERS STARK:
+  - Xi und bin-Osman im Moons JAM (Zeilen 46-83): natürlich, subtextreich,
+    echte diplomatische Doppelzüngigkeit.
+  - Oberstleutnant Chos Auftritt (Zeilen 235-239): knapp, schlagfertig,
+    sofort charakterdefinierend.
+  - Thomas und Joost in Hamburg: freundschaftliche Chemie mit echter Spannung.
+
+SCHWÄCHER:
+  - Mehrere Briefing-Dialoge im Bunker sind reine Informationsübertragung
+    (klassischer As-you-know-Bob-Fehler).
+  - Viele Figuren sprechen in vollständig grammatikalisch korrekten Sätzen,
+    auch wenn sie unter Stress stehen.
+
+
+2.6 SPRACHE UND STIL  ***  (3/5)
+-----------------------------------
+Der Sprachstil ist klar, direkt und sachlich - passt zum Genre. Solides
+Deutsch ohne Stilblüten, gute Lesbarkeit, korrekte Fachbegriffe für Militär,
+Geheimdienst, Nautik.
+
+PROBLEM - INFO-DUMPS:
+  - Schiffsgeschichte MS Sole Sourcer (Zeilen 268-276, 8 Absätze ohne
+    erzählerischen Sog)
+  - HSBC-Gründungsgeschichte (Zeilen 1797-1799, unveränderter Wikipedia-Text)
+  - Bau des Shard (Zeilen 1763-1765)
+
+Diese Passagen kosten Leservertrauen: Sie signalisieren, dass der Autor
+Recherche zeigen will statt eine Geschichte zu erzählen.
+
+EMPFEHLUNG (MUSS): Faustregel: Wenn ein Absatz entfernt werden kann, ohne
+dass die Handlung leidet, muss er entfernt werden.
+
+
+2.7 TEMPO UND PACING  **  (2/5)
+---------------------------------
+ZU LANGSAM:
+  - Brisbane-Episode (Zeilen 250-296): 4 Seiten über das Wochenende in den
+    Glass House Mountains - zu viel Idyll, wenn der Leser weiß, dass Cindy
+    eine Spionin ist.
+  - Thomas Ganghofers Recherchewoche in Assen (Zeilen 1525-1560):
+    35-Zeilen-Zusammenfassung ohne echte Szene.
+
+ZU GEHETZT:
+  - Thomas' Tod (Zeile 1673) in wenigen Zeilen - der emotionale Höhepunkt
+    der ersten Hälfte verdient deutlich mehr Raum.
+  - Major Lims Erkenntnis (Zeilen 3130-3137): der dramatische Wendepunkt des
+    Plots in einem einzigen kurzen Absatz.
+
+
+2.8 PLAUSIBILITÄT UND RECHERCHE  ****  (4/5)
+----------------------------------------------
+Das ist die stärkste Kategorie. Der Autor hat intensiv recherchiert:
+  + Nordkoreanische Geheimdienststruktur (SSD, Office 39, Office 121) korrekt
+  + Malaysische Special Branch-Hierarchie authentisch
+  + Geografische Details (Hatohobei/Tobi Island, Helen Reef) zutreffend
+  + BUK-M1-System und MH17-Kontext historisch eingebettet
+
+PLAUSIBILITÄTSPROBLEME:
+  - Schiffsroute MS Sole Sourcer (laut Inkonsistenzreport): 470 nm in 41
+    Stunden, aber 2.100 nm Mindestdistanz - physikalisch unmöglich.
+  - Reale Personen Girkin, Dubinskij, Pulatow mit fiktiven Handlungen -
+    rechtlich riskant (Verleumdungsrecht).
+
+
+2.9 STRUKTUR UND AUFBAU  ***  (3/5)
+--------------------------------------
+Das Modell datierter Szenen mit Ortsangabe und Zeitzonentabellen ist für
+einen Geopolitischen Thriller sinnvoll und professionell - echter Mehrwert
+für den Leser.
+
+PROBLEME:
+  - Chronologiefehler: Zeile 1518 "14. April 2013" muss 2014 sein; Salyukov
+    übernahm Kommando erst März 2014.
+  - Mehrere Zeitrückblenden nicht markiert (D1: Zeile 844, D2: Zeilen
+    1019-1038, D3: Zeile 1330 aus dem Inkonsistenzreport).
+
+EMPFEHLUNG: Vollständige Chronologie-Tabelle aller Szenen erstellen (Datum,
+Ort, Figuren). Alle Rückblenden müssen klar mit Zeitmarkierung eingeleitet
+werden.
+
+
+2.10 THEMATISCHE TIEFE  ****  (4/5)
+--------------------------------------
+Hier liegt echte Substanz. Die Grundidee - was, wenn es neben allen dunklen
+Verschwörungen auch eine weiße Verschwörung gibt, die im Verborgenen Gutes
+tut? - ist philosophisch interessant und für ein Massenpublikum ansprechend.
+
+Das Problem: Das Thema erscheint in der Einleitung und dann kaum mehr in der
+Haupthandlung. Der Roman ist zu sehr Plot-getrieben, um das philosophische
+Potenzial auszuschöpfen. Die thematische Ebene muss in den
+Figurenentscheidungen, im Dialog und in den Konsequenzen der Handlung
+spürbar sein.
+
+
+================================================================
+TEIL 3: GESAMTFAZIT
+================================================================
+
+TOP 3 STÄRKEN
+--------------
+1. PRÄMISSE
+   Die Verbindung von MH370, MH17, nordkoreanischer Geheimdienstoperation
+   und einer weltumspannenden weißen Verschwörung ist originell, mutig und
+   hat echtes Aufmerksamkeitspotenzial. Das ist der Kern, der dieses Buch
+   von zehntausend anderen Spionageromanen unterscheidet.
+
+2. AUTHENTIZITÄT
+   Das Recherchefundament ist solide. Wer dieses Buch liest, lernt etwas
+   über nordkoreanische Geheimdienststruktur, malaysische
+   Sicherheitsbehörden und die Geopolitik der Ukraine 2014.
+
+3. FRAUENFIGUREN IN MACHTPOSITIONEN
+   Major Lim, Oberstleutnant Cho, Brigadier Jeneral Nor Mawar, Anique
+   Smits, Ananda Khalebendi - diese Figuren tragen die Handlung mit
+   Substanz. In einem traditionell männlich dominierten Genre ein echter
+   Differenzierungsvorteil.
+
+
+TOP 3 KRITISCHSTE SCHWÄCHEN
+-----------------------------
+1. KEIN PROTAGONIST (KRITISCH)
+   25+ Figuren, keine einzige so entwickelt, dass der Leser mitfiebert.
+   Das fundamentalste Problem - muss vor allem anderen gelöst werden. Ohne
+   emotionalen Anker gibt es kein Lesererlebnis, nur Informationsübertragung.
+
+2. ETHISCHES/RECHTLICHES RISIKO MH370 UND MH17 (KRITISCH)
+   In der vorliegenden Form, mit Authentizitätsanspruch in der Einleitung
+   und fiktiven Handlungen für real agierende Personen (Girkin, Dubinskij,
+   Pulatow), ist das Buch für die meisten deutschen Verlage nicht einreichbar
+   ohne rechtliche Prüfung.
+
+3. STRUKTUR UND PACING (HOCH)
+   Info-Dumps, fehlende Haupthandlungslinie, Benjamin-Dingaka-Subplot als
+   Fremdkörper, 129.300 Wörter ohne klare dramaturgische Kurve. Ein sehr
+   guter erster Entwurf - der die richtige Reihenfolge und Dichte noch sucht.
+
+
+ÜBERARBEITUNGSFAHRPLAN
+-----------------------
+MUSS (vor Einreichung):
+  [ ] Rechtliche Prüfung: Girkin, Dubinskij, Pulatow - Namensänderung oder
+      Distanzierungshinweis
+  [ ] Hauptfigur definieren und konsequent durch den Roman führen
+  [ ] Alle Info-Dump-Passagen (Schiffsgeschichte, HSBC, Shard etc.) radikal
+      kürzen
+  [ ] Chronologiefehler beheben (April 2013/2014, Schiffsroute,
+      unbeschriftete Rückblenden)
+  [ ] Benjamin-Dingaka/Ananda-Subplot in Haupthandlung integrieren oder in
+      Teil 2 verschieben
+
+SOLLTE (vor Abgabe ans Lektorat):
+  [ ] Einstieg überarbeiten - sofortiger emotionaler Einstieg statt
+      New-York-Exposition
+  [ ] Thomas Ganghofers Tod mehr Raum geben - emotionaler Wendepunkt der
+      ersten Hälfte
+  [ ] Alle Zusammenfassungen wichtiger Handlung in echte Szenen überführen
+  [ ] Expliziten Disclaimer / Autorenwort zur MH370-Fiktion einfügen
+
+KANN (optional, für Polishing):
+  [ ] Koreanische Textblöcke kürzen - deutsche Version mit Sprachhinweis
+      genügt
+  [ ] Einige Nebenfiguren zusammenführen (Flim + Klaas, Park + Zang)
+  [ ] Sun-Tzu-Zitate enger mit Kapitelinhalt verknüpfen
+
+
+GESAMTPOTENZIAL
+----------------
+DIAMOND IN THE ROUGH.
+
+Unter den handwerklichen Problemen liegt ein echter Rohdiamant. Die Prämisse
+ist stark genug für einen Bestseller. Die Recherche ist gut genug für
+Glaubwürdigkeit. Die Idee der Weißen Verschwörung ist originell genug für
+Differenzierung.
+
+Nach einer ernsthaften Überarbeitung (geschätzter Aufwand: 6-9 Monate) hat
+dieses Buch das Potenzial, im mittleren bis oberen Segment des deutschen
+Thrillermarkts zu bestehen. Mit dem richtigen Lektorat und einer klugen
+Lösung des MH370-Ethikproblems ist mehr möglich.
+
+================================================================
+Analyse erstellt auf Basis des vollständigen Manuskripttexts (129.300 Wörter).
+Stellenangaben beziehen sich auf Zeilennummern des Klartexts dobson_clean_text.txt.
+================================================================

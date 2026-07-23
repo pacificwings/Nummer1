@@ -144,14 +144,16 @@ recherchiert erhalten; es besteht kein Klärungsbedarf mehr.
 | # | Problem | Fundstelle |
 |---|---|---|
 | L1 | Kein expliziter Szenenmarker für den MH17-Abschuss-Tag (17. Juli) selbst — BUK-Ankunft 15. Juli, dann Lücke | GD Z.11414–11522 |
-| L2 | Moskau-Szene "14. April 2013" steht im Manuskript nach den Assen-Szenen von April 2014 | GD Z.1524 |
+| L2 | Moskau-Szene "14. April 2013" steht im Manuskript nach den Assen-Szenen von April 2014 — **bestätigt durch externe Verleger-Analyse (Quelle #10):** Datum muss 2014 heißen, da General Salyukov das Kommando erst im März 2014 übernahm | GD Z.1524; Verleger-Analyse Z.284–286 |
 | L3 | Sinpo-Werft "22. Feb. 2014" steht nach den MH370-Bergungsszenen vom 8. März 2014 | GD Z.1542 |
 | L6 | Groningen "9. Juli 2014" erscheint als zwei separate Szenenmarker am selben Tag — evtl. gewollte Lücke, evtl. Fehler | GD Z.1589 |
 | L7 | Tippfehler "Deen Haag" statt "Den Haag" (9. Feb. 2015) | GD Z.14222 |
 | L8 | Tonghae-Testgelände "Februar 2014" steht nach den März-2014-Szenen | GD Z.1606 |
 | L9 | Moskau "7. März 2014" steht nach den Assen-März-2014-Szenen, gehört aber in den MH370-Block | GD Z.1618 |
 | L10 | "Falkennest"-Szene ohne Datum | GD Z.1627 |
+| L11 | Schiffsroute "MS Sole Sourcer" physikalisch unmöglich: laut Text 470 sm in 41 Std. zurückgelegt, tatsächliche Mindestdistanz aber 2.100 sm | Verleger-Analyse (Quelle #10), Z.271–273 |
+| L12 | Mehrere Zeitrückblenden im Manuskript nicht klar als Rückblende markiert/eingeleitet (drei Fundstellen laut externem Inkonsistenzreport) | Verleger-Analyse (Quelle #10), Z.287–288 |
 
-Diese Punkte sind Analyse-Feststellungen des Ghostwriter-Gutachtens, keine
+Diese Punkte sind Analyse-Feststellungen des Ghostwriter-Gutachtens bzw. (L11/L12) einer externen Verleger-/Lektoratsanalyse (Quelle #10), keine
 vom Rechercheur vorgenommenen Änderungen — zur Entscheidung/Korrektur an
 den Nutzer bzw. `roman-lektor` weitergegeben.
