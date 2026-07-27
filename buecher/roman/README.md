@@ -122,3 +122,21 @@ wurden:
    MH17-Handlungsstrang — Verleumdungsrisiko laut Analyse. Empfehlung dort:
    Namensänderung oder deutlicher Disclaimer. Das ist eine
    Entscheidung des Nutzers, keine automatisierbare Textkorrektur.
+
+Aus dem Lektor-Anschreiben (Quelle #12, bestätigt die Verleger-Analyse
+unabhängig) kommen drei weitere offene Plot-Entscheidungen hinzu:
+
+3. **Anique/USB-Stick-Faden ohne Auflösung:** Anique erinnert sich an
+   Thomas' Stick, will die Daten sichten — dann Zeitsprung, der Faden
+   wird nie wieder aufgenommen, obwohl er als Schlüssel zur
+   MH370-Aufklärung angelegt ist. Braucht entweder eine Auflösung in
+   Buch 1 oder eine bewusste, markierte Überleitung nach Buch 2.
+4. **Buchteilung:** Lektor-Empfehlung, einen früheren, befriedigenderen
+   Schluss um Thomas/Anique zu finden und Dschungel-/Westsahara-Teil
+   (ab Benjamin Dingaka) in Band 2 zu verschieben — deckt sich mit dem
+   "Fremdkörper"-Befund der Verleger-Analyse.
+5. **Präsenz der Titel-Organisation:** Die Dobneun Son ist im Text so
+   wenig präsent, dass Leser sie kaum als relevant wahrnehmen (zudem
+   inkonsistente Schreibung "Dobson neun"/"Dobneun son"). Entscheidung
+   nötig, ob die Organisation in der Überarbeitung sichtbarer geführt
+   wird.

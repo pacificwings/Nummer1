@@ -215,6 +215,53 @@ Diese Muster wurden beim Quellenstudium mehrfach gefunden und sollten **nicht** 
 
 ---
 
+## 9b. Erkenntnisse aus dem professionellen Lektorat (Quellen #11/#12 — verbindlich)
+
+Aus dem Vergleich unlektorierte vs. lektorierte Fassung von Band 1 und dem
+Lektor-Anschreiben (Details: `buecher/roman/recherche/stilanalyse_lektorat_20260727.md`).
+Für Stilfragen ist die **lektorierte Fassung (#11) die Referenz**, nicht der Rohtext.
+
+1. **Beschreiben, nicht nur berichten.** Der zentrale Lektoratsbefund: In
+   zwischenmenschlichen Szenen fehlen Umgebung, innere Vorgänge, Mimik und
+   Gesten fast völlig — Szenen wirken steril. Der nüchterne Berichtston bleibt
+   für Operationen/Abläufe richtig, aber Szenen zwischen Menschen brauchen
+   pro Dialogwechsel immer wieder kurze Wahrnehmungs-/Reaktions-Beats
+   (Blick auf den Raum, ein Gedanke der Fokusfigur, eine Geste), damit der
+   Leser sich hineinversetzen kann.
+2. **Dialog entlasten.** Nicht jede zwischenmenschliche Information über
+   Dialog transportieren — das erzeugt Floskeln und ausufernde Wechselreden.
+   Was eine Beschreibung oder ein Gedanke leisten kann, nicht in Sprechtext
+   packen. Insbesondere den Tick vermeiden, dass Figuren sich ständig
+   "anlächeln" und "angucken" — das ist Ersatzhandlung für fehlende echte
+   Beschreibung.
+3. **90-%-Regel für Hintergrundwissen:** Von recherchierten Fakten erfährt
+   der Leser höchstens einen Bruchteil, beiläufig in Handlung/Wahrnehmung
+   eingeflochten — nie als eigenständiger Absatz "damit er es weiß".
+   Hintergrund ohne Handlungsrelevanz wird gestrichen (der Lektor hat solche
+   Passagen konsequent entfernt: Schach-Essay, Office-39-Erklärung,
+   9/11-2012-Feierlichkeiten).
+4. **Redundante Bestätigungsschleifen im Dialog streichen** (Höflichkeits-
+   Pingpong, "Vielen Dank für die positive Rückmeldung"-Beats) sowie
+   erklärende Nachsätze, die bereits Gezeigtes benennen ("Das war jetzt
+   geklärt, sogar Park entspannte sich").
+5. **Redebegleitsatz mit Doppelpunkt:** "sagte er: „…"" statt "sagte er, „…"";
+   inneren Gedanken und laute Antwort sauber trennen ("…, dachte Chang und
+   antwortete laut: …").
+6. **Hinweis zum globalen Skill `roman-mcallan`:** Dessen These, lange
+   umständliche Dialoge seien bewusste Stilentscheidung, ist durch das
+   professionelle Lektorat widerlegt worden — für dieses Projekt gilt die
+   Lektorats-Linie (straffer, entlasteter Dialog).
+
+**Prüfliste der häufigsten realen Fehlerklassen (für `roman-korrektor`, quantifiziert aus dem Diff):**
+"Sie/Ihr" fälschlich groß in 3. Person (107×) · das/dass (55×) ·
+Tempus-Drift Präsens→Präteritum (18×) · "so das"→"sodass" (14×) ·
+"zur Zeit"→"zurzeit" (13×) · Komma statt Doppelpunkt vor Zitat (12×) ·
+"MH370"→"MH 370" (11×) · Abkürzungen im Erzähltext ausschreiben
+(bzw./ca./km/m, 26×) · kleine Zahlen als Wort · viel/fiel ·
+falscher Apostroph (NK´s) · "OK"→"ok".
+
+---
+
 ## 10. Verboten
 
 - Stakkato-Satzketten außerhalb von Funk-/Kommandosprache.
